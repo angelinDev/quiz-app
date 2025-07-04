@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Histoire de France",
+    "questions": [
+      {
+        "question": "En quelle année a eu lieu la Révolution française ?",
+        "choices": ["1789", "1815", "1848", "1914"],
+        "answer": "1789"
+      },
+      {
+        "question": "Qui était le roi de France lors de la Révolution française ?",
+        "choices": ["Louis XIV", "Louis XV", "Louis XVI", "Napoléon Ier"],
+        "answer": "Louis XVI"
+      }
+      
+    ]
+  },
+  {
+    "category": "Géopolitique",
+    "questions": [
+      {
+        "question": "Quel pays a quitté l'Union européenne en 2020 ?",
+        "choices": ["France", "Royaume-Uni", "Allemagne", "Italie"],
+        "answer": "Royaume-Uni"
+      },
+      {
+        "question": "Quelle organisation regroupe les États-Unis, le Canada et le Mexique ?",
+        "choices": ["ALENA", "UE", "ASEAN", "OTAN"],
+        "answer": "ALENA"
+      }
+      
+    ]
+  },
+  {
+    "category": "Écologie",
+    "questions": [
+      {
+        "question": "Quel gaz est principalement responsable de l'effet de serre ?",
+        "choices": ["Oxygène", "Dioxyde de carbone", "Azote", "Hydrogène"],
+        "answer": "Dioxyde de carbone"
+      },
+      {
+        "question": "Quelle est la principale cause de la déforestation en Amazonie ?",
+        "choices": ["Urbanisation", "Élevage", "Industrie", "Tourisme"],
+        "answer": "Élevage"
+      }
+      
+    ]
+  },
+  {
+    "category": "Astronomie",
+    "questions": [
+      {
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "choices": ["Vénus", "Terre", "Mercure", "Mars"],
+        "answer": "Mercure"
+      },
+      {
+        "question": "Quel est le plus grand satellite naturel de la Terre ?",
+        "choices": ["Phobos", "Lune", "Io", "Titan"],
+        "answer": "Lune"
+      }
+      
+    ]
+  },
+  {
+    "category": "Histoire du monde",
+    "questions": [
+      {
+        "question": "Qui a découvert l'Amérique en 1492 ?",
+        "choices": ["Vasco de Gama", "Christophe Colomb", "Magellan", "Marco Polo"],
+        "answer": "Christophe Colomb"
+      },
+      {
+        "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+        "choices": ["1942", "1945", "1950", "1939"],
+        "answer": "1945"
+      }
+      
+    ]
+  },
+  {
+    "category": "Pays et capitales",
+    "questions": [
+      {
+        "question": "Quelle est la capitale de la France ?",
+        "choices": ["Paris", "Londres", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Quelle est la capitale du Japon ?",
+        "choices": ["Pékin", "Séoul", "Tokyo", "Bangkok"],
+        "answer": "Tokyo"
+      }
+      
+    ]
+  }
+]
