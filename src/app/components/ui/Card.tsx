@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card() {
+function Card({...props}) {
   return (
     <div className="relative group bg-gradient-to-br from-[#232323] via-[#1a1a1a] to-[#111] border border-yellow-400/30 hover:border-yellow-400 rounded-3xl shadow-2xl p-7 transition-all duration-300 overflow-hidden ring-1 ring-yellow-200/10 hover:scale-[1.025]">
       {/* Glow effect */}
@@ -29,16 +29,15 @@ function Card() {
               strokeLinecap="round"
             />
           </svg>
-          Nouveau
+          Durée : {props.duration} sec
         </span>
-        <span className="text-xs text-[#ffe082b0] font-mono">5 questions</span>
+        <span className="text-xs text-[#ffe082b0] font-mono">10 questions</span>
       </div>
       <h3 className="text-2xl font-extrabold mb-2 text-transparent bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-600 bg-clip-text drop-shadow-[0_2px_8px_rgba(255,193,7,0.18)] transition-colors duration-300">
-        Quiz Example
+        {props.category}
       </h3>
       <p className="text-[#fffbe9d0] mb-7 text-base leading-relaxed font-medium">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat vitae
-        dolore odio asperiores, ipsum fuga.
+        {props.description}
       </p>
       <button className="relative w-full py-2.5 rounded-xl bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500 text-black font-bold shadow-xl hover:from-yellow-400 hover:to-yellow-600 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 tracking-wide text-lg group-hover:scale-105">
         <span className="inline-flex items-center gap-2">
