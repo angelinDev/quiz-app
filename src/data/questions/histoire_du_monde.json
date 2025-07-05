@@ -1,0 +1,967 @@
+[
+  {
+    "category": "Histoire du monde",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qui a découvert l'Amérique en 1492 ?",
+        "choices": [
+          "Vasco de Gama",
+          "Christophe Colomb",
+          "Magellan",
+          "Marco Polo"
+        ],
+        "answer": "Christophe Colomb"
+      },
+      {
+        "id": 2,
+        "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+        "choices": ["1942", "1945", "1950", "1939"],
+        "answer": "1945"
+      },
+      {
+        "id": 3,
+        "question": "Quel empire était dirigé par Jules César ?",
+        "choices": [
+          "L'Empire grec",
+          "L'Empire romain",
+          "L'Empire égyptien",
+          "L'Empire perse"
+        ],
+        "answer": "L'Empire romain"
+      },
+      {
+        "id": 4,
+        "question": "Qui était le premier président des États-Unis ?",
+        "choices": [
+          "Thomas Jefferson",
+          "Abraham Lincoln",
+          "George Washington",
+          "John Adams"
+        ],
+        "answer": "George Washington"
+      },
+      {
+        "id": 5,
+        "question": "Quel événement historique a commencé en 1914 ?",
+        "choices": [
+          "La Révolution française",
+          "La Première Guerre mondiale",
+          "La Guerre froide",
+          "La Seconde Guerre mondiale"
+        ],
+        "answer": "La Première Guerre mondiale"
+      },
+      {
+        "id": 6,
+        "question": "Qui a peint la Mona Lisa ?",
+        "choices": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Michel-Ange"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 7,
+        "question": "Quel était le nom du premier homme sur la Lune ?",
+        "choices": [
+          "Buzz Aldrin",
+          "Neil Armstrong",
+          "John Glenn",
+          "Michael Collins"
+        ],
+        "answer": "Neil Armstrong"
+      },
+      {
+        "id": 8,
+        "question": "Qui a écrit 'La République' ?",
+        "choices": ["Socrate", "Aristote", "Platon", "Homère"],
+        "answer": "Platon"
+      },
+      {
+        "id": 9,
+        "question": "Quel était le principal langage écrit de l'Égypte ancienne ?",
+        "choices": ["Le latin", "Le grec", "Les hiéroglyphes", "L'araméen"],
+        "answer": "Les hiéroglyphes"
+      },
+      {
+        "id": 10,
+        "question": "Qui était la déesse grecque de la sagesse ?",
+        "choices": ["Héra", "Artémis", "Aphrodite", "Athéna"],
+        "answer": "Athéna"
+      },
+      {
+        "id": 11,
+        "question": "Quel événement a marqué le début de la Révolution française en 1789 ?",
+        "choices": [
+          "La prise de la Bastille",
+          "L'exécution de Louis XVI",
+          "La Déclaration des droits de l'homme",
+          "La bataille de Waterloo"
+        ],
+        "answer": "La prise de la Bastille"
+      },
+      {
+        "id": 12,
+        "question": "Qui était le leader de l'Union soviétique pendant la Seconde Guerre mondiale ?",
+        "choices": ["Lénine", "Staline", "Khrouchtchev", "Gorbatchev"],
+        "answer": "Staline"
+      },
+      {
+        "id": 13,
+        "question": "Quel traité a officiellement mis fin à la Première Guerre mondiale ?",
+        "choices": [
+          "Le traité de Paris",
+          "Le traité de Versailles",
+          "Le traité de Rome",
+          "Le traité de Genève"
+        ],
+        "answer": "Le traité de Versailles"
+      },
+      {
+        "id": 14,
+        "question": "Qui était le célèbre physicien qui a développé la théorie de la relativité ?",
+        "choices": [
+          "Isaac Newton",
+          "Galileo Galilei",
+          "Albert Einstein",
+          "Stephen Hawking"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": 15,
+        "question": "Quel était le nom du navire sur lequel Charles Darwin a voyagé ?",
+        "choices": [
+          "Le Titanic",
+          "Le Beagle",
+          "Le Santa Maria",
+          "Le Mayflower"
+        ],
+        "answer": "Le Beagle"
+      },
+      {
+        "id": 16,
+        "question": "Qui était le premier empereur romain ?",
+        "choices": ["Jules César", "Néron", "Auguste", "Trajan"],
+        "answer": "Auguste"
+      },
+      {
+        "id": 17,
+        "question": "Quel événement a conduit à la chute du mur de Berlin en 1989 ?",
+        "choices": [
+          "La fin de la Seconde Guerre mondiale",
+          "La guerre froide",
+          "La révolution pacifique",
+          "La réunification allemande"
+        ],
+        "answer": "La révolution pacifique"
+      },
+      {
+        "id": 18,
+        "question": "Qui a fondé la dynastie Ming en Chine ?",
+        "choices": ["Kangxi", "Hongwu", "Qianlong", "Yongle"],
+        "answer": "Hongwu"
+      },
+      {
+        "id": 19,
+        "question": "Quel était le nom du premier satellite artificiel lancé dans l'espace ?",
+        "choices": ["Apollo 11", "Sputnik 1", "Explorer 1", "Vostok 1"],
+        "answer": "Sputnik 1"
+      },
+      {
+        "id": 20,
+        "question": "Qui était le célèbre conquérant macédonien qui a étendu son empire jusqu'en Inde ?",
+        "choices": [
+          "Périclès",
+          "Léonidas",
+          "Alexandre le Grand",
+          "Philippe II"
+        ],
+        "answer": "Alexandre le Grand"
+      },
+      {
+        "id": 21,
+        "question": "Quel était le nom de la route commerciale qui reliait la Chine à la Méditerranée ?",
+        "choices": [
+          "La route de la Soie",
+          "La route des Épices",
+          "La route de l'Or",
+          "La route de l'Encens"
+        ],
+        "answer": "La route de la Soie"
+      },
+      {
+        "id": 22,
+        "question": "Qui était le pharaon égyptien connu pour son tombeau découvert presque intact en 1922 ?",
+        "choices": ["Ramsès II", "Cléopâtre", "Akhenaton", "Toutânkhamon"],
+        "answer": "Toutânkhamon"
+      },
+      {
+        "id": 23,
+        "question": "Quel était le nom du conflit entre la Grèce et Troie décrit dans l'Iliade ?",
+        "choices": [
+          "La guerre de Troie",
+          "La guerre du Péloponnèse",
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans"
+        ],
+        "answer": "La guerre de Troie"
+      },
+      {
+        "id": 24,
+        "question": "Qui était le célèbre explorateur vénitien qui a voyagé en Chine au 13ème siècle ?",
+        "choices": [
+          "Christophe Colomb",
+          "Vasco de Gama",
+          "Marco Polo",
+          "Ferdinand Magellan"
+        ],
+        "answer": "Marco Polo"
+      },
+      {
+        "id": 25,
+        "question": "Quel était le nom de la première civilisation connue de Mésopotamie ?",
+        "choices": [
+          "Les Égyptiens",
+          "Les Sumériens",
+          "Les Babyloniens",
+          "Les Assyriens"
+        ],
+        "answer": "Les Sumériens"
+      },
+      {
+        "id": 26,
+        "question": "Qui était le célèbre empereur romain connu pour avoir construit un mur en Bretagne ?",
+        "choices": ["Jules César", "Néron", "Hadrien", "Trajan"],
+        "answer": "Hadrien"
+      },
+      {
+        "id": 27,
+        "question": "Quel était le nom de la guerre civile américaine qui a opposé le Nord et le Sud des États-Unis ?",
+        "choices": [
+          "La guerre de Sécession",
+          "La guerre d'Indépendance",
+          "La guerre de 1812",
+          "La guerre froide"
+        ],
+        "answer": "La guerre de Sécession"
+      },
+      {
+        "id": 28,
+        "question": "Qui était le célèbre scientifique qui a découvert la loi de la gravitation universelle ?",
+        "choices": [
+          "Galileo Galilei",
+          "Isaac Newton",
+          "Albert Einstein",
+          "Stephen Hawking"
+        ],
+        "answer": "Isaac Newton"
+      },
+      {
+        "id": 29,
+        "question": "Quel était le nom du mouvement artistique et intellectuel qui a commencé en Italie au 14ème siècle ?",
+        "choices": [
+          "Le baroque",
+          "Le classicisme",
+          "La Renaissance",
+          "Le romantisme"
+        ],
+        "answer": "La Renaissance"
+      },
+      {
+        "id": 30,
+        "question": "Qui était le célèbre compositeur allemand connu pour ses symphonies et sonates ?",
+        "choices": [
+          "Wolfgang Amadeus Mozart",
+          "Ludwig van Beethoven",
+          "Johann Sebastian Bach",
+          "Franz Schubert"
+        ],
+        "answer": "Ludwig van Beethoven"
+      },
+      {
+        "id": 31,
+        "question": "Quel était le nom de la première civilisation urbaine de l'Inde antique ?",
+        "choices": [
+          "La civilisation védique",
+          "La civilisation de l'Indus",
+          "La civilisation maurya",
+          "La civilisation gupta"
+        ],
+        "answer": "La civilisation de l'Indus"
+      },
+      {
+        "id": 32,
+        "question": "Qui était le célèbre philosophe grec connu pour ses dialogues socratiques ?",
+        "choices": ["Socrate", "Aristote", "Platon", "Pythagore"],
+        "answer": "Platon"
+      },
+      {
+        "id": 33,
+        "question": "Quel était le nom de la guerre qui a opposé l'Angleterre et la France de 1337 à 1453 ?",
+        "choices": [
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans",
+          "La guerre de Sept Ans",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre de Cent Ans"
+      },
+      {
+        "id": 34,
+        "question": "Qui était le célèbre navigateur portugais qui a découvert la route maritime vers l'Inde ?",
+        "choices": [
+          "Christophe Colomb",
+          "Vasco de Gama",
+          "Ferdinand Magellan",
+          "Marco Polo"
+        ],
+        "answer": "Vasco de Gama"
+      },
+      {
+        "id": 35,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Chine de 1368 à 1644 ?",
+        "choices": [
+          "La dynastie Tang",
+          "La dynastie Song",
+          "La dynastie Yuan",
+          "La dynastie Ming"
+        ],
+        "answer": "La dynastie Ming"
+      },
+      {
+        "id": 36,
+        "question": "Qui était le célèbre empereur mongol connu pour ses conquêtes en Asie ?",
+        "choices": ["Gengis Khan", "Kublai Khan", "Attila le Hun", "Tamerlan"],
+        "answer": "Gengis Khan"
+      },
+      {
+        "id": 37,
+        "question": "Quel était le nom de la période de prospérité culturelle et scientifique dans le monde islamique médiéval ?",
+        "choices": [
+          "L'âge d'or islamique",
+          "La Renaissance islamique",
+          "L'ère des califes",
+          "L'ère des sultans"
+        ],
+        "answer": "L'âge d'or islamique"
+      },
+      {
+        "id": 38,
+        "question": "Qui était le célèbre explorateur espagnol qui a réalisé le premier tour du monde ?",
+        "choices": [
+          "Christophe Colomb",
+          "Vasco de Gama",
+          "Ferdinand Magellan",
+          "Hernán Cortés"
+        ],
+        "answer": "Ferdinand Magellan"
+      },
+      {
+        "id": 39,
+        "question": "Quel était le nom de la guerre qui a opposé les États-Unis et l'Union soviétique de 1947 à 1991 ?",
+        "choices": [
+          "La Première Guerre mondiale",
+          "La Seconde Guerre mondiale",
+          "La guerre froide",
+          "La guerre de Corée"
+        ],
+        "answer": "La guerre froide"
+      },
+      {
+        "id": 40,
+        "question": "Qui était le célèbre empereur byzantin connu pour avoir codifié le droit romain ?",
+        "choices": [
+          "Constantin le Grand",
+          "Justinien I",
+          "Héraclius",
+          "Basile II"
+        ],
+        "answer": "Justinien I"
+      },
+      {
+        "id": 41,
+        "question": "Quel était le nom de la révolution industrielle qui a commencé en Grande-Bretagne au 18ème siècle ?",
+        "choices": [
+          "La première révolution industrielle",
+          "La seconde révolution industrielle",
+          "La révolution agricole",
+          "La révolution numérique"
+        ],
+        "answer": "La première révolution industrielle"
+      },
+      {
+        "id": 42,
+        "question": "Qui était le célèbre leader indien connu pour sa lutte non violente pour l'indépendance ?",
+        "choices": [
+          "Jawaharlal Nehru",
+          "Subhas Chandra Bose",
+          "Mahatma Gandhi",
+          "Bhagat Singh"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "id": 43,
+        "question": "Quel était le nom de la guerre qui a opposé la France à la Prusse en 1870 ?",
+        "choices": [
+          "La guerre franco-prussienne",
+          "La guerre de Crimée",
+          "La guerre de Sept Ans",
+          "La guerre austro-prussienne"
+        ],
+        "answer": "La guerre franco-prussienne"
+      },
+      {
+        "id": 44,
+        "question": "Qui était le célèbre scientifique italien connu pour ses études sur les mouvements des planètes ?",
+        "choices": [
+          "Nicolaus Copernicus",
+          "Galileo Galilei",
+          "Johannes Kepler",
+          "Isaac Newton"
+        ],
+        "answer": "Galileo Galilei"
+      },
+      {
+        "id": 45,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Égypte antique de 1550 à 1069 av. J.-C. ?",
+        "choices": [
+          "L'Ancien Empire",
+          "Le Moyen Empire",
+          "Le Nouvel Empire",
+          "La période ptolémaïque"
+        ],
+        "answer": "Le Nouvel Empire"
+      },
+      {
+        "id": 46,
+        "question": "Qui était le célèbre empereur romain connu pour avoir incendié Rome ?",
+        "choices": ["Caligula", "Néron", "Tibère", "Claude"],
+        "answer": "Néron"
+      },
+      {
+        "id": 47,
+        "question": "Quel était le nom de la guerre qui a opposé l'Angleterre et l'Espagne de 1585 à 1604 ?",
+        "choices": [
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans",
+          "La guerre anglo-espagnole",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre anglo-espagnole"
+      },
+      {
+        "id": 48,
+        "question": "Qui était le célèbre philosophe des Lumières connu pour son œuvre 'Du contrat social' ?",
+        "choices": [
+          "Voltaire",
+          "Jean-Jacques Rousseau",
+          "Denis Diderot",
+          "Montesquieu"
+        ],
+        "answer": "Jean-Jacques Rousseau"
+      },
+      {
+        "id": 49,
+        "question": "Quel était le nom de la bataille navale décisive remportée par les Grecs contre les Perses en 480 av. J.-C. ?",
+        "choices": [
+          "La bataille de Marathon",
+          "La bataille des Thermopyles",
+          "La bataille de Salamine",
+          "La bataille de Platées"
+        ],
+        "answer": "La bataille de Salamine"
+      },
+      {
+        "id": 50,
+        "question": "Qui était le célèbre empereur chinois connu pour son armée de terre cuite ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Taizong de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Qin Shi Huang"
+        ],
+        "answer": "L'empereur Qin Shi Huang"
+      },
+      {
+        "id": 51,
+        "question": "Quel traité a mis fin à la guerre de Sept Ans en 1763 ?",
+        "choices": [
+          "Le traité de Paris",
+          "Le traité de Versailles",
+          "Le traité de Tordesillas",
+          "Le traité de Rome"
+        ],
+        "answer": "Le traité de Paris"
+      },
+      {
+        "id": 52,
+        "question": "Qui était le célèbre roi macédonien et père d'Alexandre le Grand ?",
+        "choices": ["Darius III", "Philippe II", "Xerxès Ier", "Léonidas"],
+        "answer": "Philippe II"
+      },
+      {
+        "id": 53,
+        "question": "Quel événement a marqué le début de la Grande Dépression en 1929 ?",
+        "choices": [
+          "Le krach boursier de 1929",
+          "La Première Guerre mondiale",
+          "La Seconde Guerre mondiale",
+          "La guerre de Corée"
+        ],
+        "answer": "Le krach boursier de 1929"
+      },
+      {
+        "id": 54,
+        "question": "Qui était le célèbre empereur romain connu pour son mur en Écosse ?",
+        "choices": ["Trajan", "Hadrien", "Auguste", "Néron"],
+        "answer": "Hadrien"
+      },
+      {
+        "id": 55,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Égypte de 305 à 30 av. J.-C. ?",
+        "choices": [
+          "La dynastie ptolémaïque",
+          "La dynastie des Ramsès",
+          "La dynastie des Thoutmosis",
+          "La dynastie des Akhenaton"
+        ],
+        "answer": "La dynastie ptolémaïque"
+      },
+      {
+        "id": 56,
+        "question": "Qui était le célèbre général carthaginois qui a combattu Rome pendant la deuxième guerre punique ?",
+        "choices": [
+          "Scipion l'Africain",
+          "Hannibal Barca",
+          "Jules César",
+          "Pompée le Grand"
+        ],
+        "answer": "Hannibal Barca"
+      },
+      {
+        "id": 57,
+        "question": "Quel était le nom de la première civilisation urbaine de la Mésopotamie ?",
+        "choices": [
+          "Les Akkadiens",
+          "Les Babyloniens",
+          "Les Sumériens",
+          "Les Assyriens"
+        ],
+        "answer": "Les Sumériens"
+      },
+      {
+        "id": 58,
+        "question": "Qui était le célèbre pharaon égyptien connu pour sa reine Néfertiti ?",
+        "choices": ["Toutânkhamon", "Ramsès II", "Akhenaton", "Thoutmosis III"],
+        "answer": "Akhenaton"
+      },
+      {
+        "id": 59,
+        "question": "Quel était le nom de la guerre qui a opposé Athènes et Sparte au 5ème siècle av. J.-C. ?",
+        "choices": [
+          "La guerre de Troie",
+          "La guerre du Péloponnèse",
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans"
+        ],
+        "answer": "La guerre du Péloponnèse"
+      },
+      {
+        "id": 60,
+        "question": "Qui était le célèbre empereur byzantin connu pour avoir reconquis l'Afrique du Nord ?",
+        "choices": [
+          "Justinien I",
+          "Héraclius",
+          "Basile II",
+          "Constantin le Grand"
+        ],
+        "answer": "Justinien I"
+      },
+      {
+        "id": 61,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Perse de 550 à 330 av. J.-C. ?",
+        "choices": [
+          "La dynastie achéménide",
+          "La dynastie sassanide",
+          "La dynastie parthe",
+          "La dynastie séleucide"
+        ],
+        "answer": "La dynastie achéménide"
+      },
+      {
+        "id": 62,
+        "question": "Qui était le célèbre empereur romain connu pour avoir dit 'Je suis encore vivant' ?",
+        "choices": ["Jules César", "Auguste", "Vespasien", "Néron"],
+        "answer": "Vespasien"
+      },
+      {
+        "id": 63,
+        "question": "Quel était le nom de la bataille où Napoléon a été finalement vaincu en 1815 ?",
+        "choices": [
+          "La bataille d'Austerlitz",
+          "La bataille de Waterloo",
+          "La bataille de Marengo",
+          "La bataille d'Iéna"
+        ],
+        "answer": "La bataille de Waterloo"
+      },
+      {
+        "id": 64,
+        "question": "Qui était le célèbre empereur chinois connu pour son voyage vers l'Ouest ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Xuanzang de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Yongle de Ming"
+        ],
+        "answer": "L'empereur Xuanzang de Tang"
+      },
+      {
+        "id": 65,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Inde de 1526 à 1857 ?",
+        "choices": [
+          "La dynastie maurya",
+          "La dynastie gupta",
+          "La dynastie moghole",
+          "La dynastie chalukya"
+        ],
+        "answer": "La dynastie moghole"
+      },
+      {
+        "id": 66,
+        "question": "Qui était le célèbre empereur romain connu pour avoir construit le Colisée ?",
+        "choices": ["Néron", "Vespasien", "Trajan", "Hadrien"],
+        "answer": "Vespasien"
+      },
+      {
+        "id": 67,
+        "question": "Quel était le nom de la guerre qui a opposé la France et l'Espagne de 1635 à 1659 ?",
+        "choices": [
+          "La guerre de Trente Ans",
+          "La guerre de Cent Ans",
+          "La guerre franco-espagnole",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre franco-espagnole"
+      },
+      {
+        "id": 68,
+        "question": "Qui était le célèbre empereur romain connu pour son règne de terreur ?",
+        "choices": ["Caligula", "Néron", "Tibère", "Domitien"],
+        "answer": "Caligula"
+      },
+      {
+        "id": 69,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Chine de 618 à 907 ?",
+        "choices": [
+          "La dynastie Han",
+          "La dynastie Tang",
+          "La dynastie Song",
+          "La dynastie Ming"
+        ],
+        "answer": "La dynastie Tang"
+      },
+      {
+        "id": 70,
+        "question": "Qui était le célèbre empereur romain connu pour avoir adopté le christianisme ?",
+        "choices": [
+          "Constantin le Grand",
+          "Théodose Ier",
+          "Justinien I",
+          "Héraclius"
+        ],
+        "answer": "Constantin le Grand"
+      },
+      {
+        "id": 71,
+        "question": "Quel était le nom de la bataille navale décisive remportée par Octave contre Marc Antoine en 31 av. J.-C. ?",
+        "choices": [
+          "La bataille d'Actium",
+          "La bataille de Salamine",
+          "La bataille de Lépante",
+          "La bataille du cap Ténare"
+        ],
+        "answer": "La bataille d'Actium"
+      },
+      {
+        "id": 72,
+        "question": "Qui était le célèbre empereur mongol connu pour ses voyages en Chine ?",
+        "choices": ["Gengis Khan", "Kublai Khan", "Ögedei Khan", "Tamerlan"],
+        "answer": "Kublai Khan"
+      },
+      {
+        "id": 73,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Inde de 322 à 185 av. J.-C. ?",
+        "choices": [
+          "La dynastie maurya",
+          "La dynastie gupta",
+          "La dynastie moghole",
+          "La dynastie chalukya"
+        ],
+        "answer": "La dynastie maurya"
+      },
+      {
+        "id": 74,
+        "question": "Qui était le célèbre empereur romain connu pour avoir incendié Rome ?",
+        "choices": ["Caligula", "Néron", "Tibère", "Claude"],
+        "answer": "Néron"
+      },
+      {
+        "id": 75,
+        "question": "Quel était le nom de la guerre qui a opposé l'Angleterre et la France de 1756 à 1763 ?",
+        "choices": [
+          "La guerre de Sept Ans",
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre de Sept Ans"
+      },
+      {
+        "id": 76,
+        "question": "Qui était le célèbre empereur chinois connu pour son voyage vers l'Inde ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Xuanzang de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Yongle de Ming"
+        ],
+        "answer": "L'empereur Xuanzang de Tang"
+      },
+      {
+        "id": 77,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Perse de 224 à 651 ?",
+        "choices": [
+          "La dynastie achéménide",
+          "La dynastie sassanide",
+          "La dynastie parthe",
+          "La dynastie séleucide"
+        ],
+        "answer": "La dynastie sassanide"
+      },
+      {
+        "id": 78,
+        "question": "Qui était le célèbre empereur romain connu pour son règne de paix et de prospérité ?",
+        "choices": ["Auguste", "Trajan", "Marc Aurèle", "Hadrien"],
+        "answer": "Auguste"
+      },
+      {
+        "id": 79,
+        "question": "Quel était le nom de la bataille où les Grecs ont vaincu les Perses en 490 av. J.-C. ?",
+        "choices": [
+          "La bataille des Thermopyles",
+          "La bataille de Marathon",
+          "La bataille de Salamine",
+          "La bataille de Platées"
+        ],
+        "answer": "La bataille de Marathon"
+      },
+      {
+        "id": 80,
+        "question": "Qui était le célèbre empereur chinois connu pour son armée de terre cuite ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Taizong de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Qin Shi Huang"
+        ],
+        "answer": "L'empereur Qin Shi Huang"
+      },
+      {
+        "id": 81,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Égypte de 2055 à 1650 av. J.-C. ?",
+        "choices": [
+          "L'Ancien Empire",
+          "Le Moyen Empire",
+          "Le Nouvel Empire",
+          "La période ptolémaïque"
+        ],
+        "answer": "Le Moyen Empire"
+      },
+      {
+        "id": 82,
+        "question": "Qui était le célèbre empereur romain connu pour son mur en Bretagne ?",
+        "choices": ["Trajan", "Hadrien", "Auguste", "Néron"],
+        "answer": "Hadrien"
+      },
+      {
+        "id": 83,
+        "question": "Quel était le nom de la guerre qui a opposé la France et l'Angleterre de 1337 à 1453 ?",
+        "choices": [
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans",
+          "La guerre de Sept Ans",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre de Cent Ans"
+      },
+      {
+        "id": 84,
+        "question": "Qui était le célèbre empereur chinois connu pour son voyage vers l'Ouest ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Xuanzang de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Yongle de Ming"
+        ],
+        "answer": "L'empereur Xuanzang de Tang"
+      },
+      {
+        "id": 85,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Inde de 320 à 550 ?",
+        "choices": [
+          "La dynastie maurya",
+          "La dynastie gupta",
+          "La dynastie moghole",
+          "La dynastie chalukya"
+        ],
+        "answer": "La dynastie gupta"
+      },
+      {
+        "id": 86,
+        "question": "Qui était le célèbre empereur romain connu pour son règne de terreur ?",
+        "choices": ["Caligula", "Néron", "Tibère", "Domitien"],
+        "answer": "Caligula"
+      },
+      {
+        "id": 87,
+        "question": "Quel était le nom de la bataille où Napoléon a été finalement vaincu en 1815 ?",
+        "choices": [
+          "La bataille d'Austerlitz",
+          "La bataille de Waterloo",
+          "La bataille de Marengo",
+          "La bataille d'Iéna"
+        ],
+        "answer": "La bataille de Waterloo"
+      },
+      {
+        "id": 88,
+        "question": "Qui était le célèbre empereur mongol connu pour ses voyages en Chine ?",
+        "choices": ["Gengis Khan", "Kublai Khan", "Ögedei Khan", "Tamerlan"],
+        "answer": "Kublai Khan"
+      },
+      {
+        "id": 89,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Chine de 1368 à 1644 ?",
+        "choices": [
+          "La dynastie Tang",
+          "La dynastie Song",
+          "La dynastie Yuan",
+          "La dynastie Ming"
+        ],
+        "answer": "La dynastie Ming"
+      },
+      {
+        "id": 90,
+        "question": "Qui était le célèbre empereur romain connu pour avoir adopté le christianisme ?",
+        "choices": [
+          "Constantin le Grand",
+          "Théodose Ier",
+          "Justinien I",
+          "Héraclius"
+        ],
+        "answer": "Constantin le Grand"
+      },
+      {
+        "id": 91,
+        "question": "Quel était le nom de la bataille navale décisive remportée par Octave contre Marc Antoine en 31 av. J.-C. ?",
+        "choices": [
+          "La bataille d'Actium",
+          "La bataille de Salamine",
+          "La bataille de Lépante",
+          "La bataille du cap Ténare"
+        ],
+        "answer": "La bataille d'Actium"
+      },
+      {
+        "id": 92,
+        "question": "Qui était le célèbre empereur mongol connu pour ses voyages en Chine ?",
+        "choices": ["Gengis Khan", "Kublai Khan", "Ögedei Khan", "Tamerlan"],
+        "answer": "Kublai Khan"
+      },
+      {
+        "id": 93,
+        "question": "Quel était le nom de la dynastie qui a régné sur l'Inde de 322 à 185 av. J.-C. ?",
+        "choices": [
+          "La dynastie maurya",
+          "La dynastie gupta",
+          "La dynastie moghole",
+          "La dynastie chalukya"
+        ],
+        "answer": "La dynastie maurya"
+      },
+      {
+        "id": 94,
+        "question": "Qui était le célèbre empereur romain connu pour avoir incendié Rome ?",
+        "choices": ["Caligula", "Néron", "Tibère", "Claude"],
+        "answer": "Néron"
+      },
+      {
+        "id": 95,
+        "question": "Quel était le nom de la guerre qui a opposé l'Angleterre et la France de 1756 à 1763 ?",
+        "choices": [
+          "La guerre de Sept Ans",
+          "La guerre de Cent Ans",
+          "La guerre de Trente Ans",
+          "La guerre de Succession d'Espagne"
+        ],
+        "answer": "La guerre de Sept Ans"
+      },
+      {
+        "id": 96,
+        "question": "Qui était le célèbre empereur chinois connu pour son voyage vers l'Inde ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Xuanzang de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Yongle de Ming"
+        ],
+        "answer": "L'empereur Xuanzang de Tang"
+      },
+      {
+        "id": 97,
+        "question": "Quel était le nom de la dynastie qui a régné sur la Perse de 224 à 651 ?",
+        "choices": [
+          "La dynastie achéménide",
+          "La dynastie sassanide",
+          "La dynastie parthe",
+          "La dynastie séleucide"
+        ],
+        "answer": "La dynastie sassanide"
+      },
+      {
+        "id": 98,
+        "question": "Qui était le célèbre empereur romain connu pour son règne de paix et de prospérité ?",
+        "choices": ["Auguste", "Trajan", "Marc Aurèle", "Hadrien"],
+        "answer": "Auguste"
+      },
+      {
+        "id": 99,
+        "question": "Quel était le nom de la bataille où les Grecs ont vaincu les Perses en 490 av. J.-C. ?",
+        "choices": [
+          "La bataille des Thermopyles",
+          "La bataille de Marathon",
+          "La bataille de Salamine",
+          "La bataille de Platées"
+        ],
+        "answer": "La bataille de Marathon"
+      },
+      {
+        "id": 100,
+        "question": "Qui était le célèbre empereur chinois connu pour son armée de terre cuite ?",
+        "choices": [
+          "L'empereur Wu de Han",
+          "L'empereur Taizong de Tang",
+          "L'empereur Kangxi de Qing",
+          "L'empereur Qin Shi Huang"
+        ],
+        "answer": "L'empereur Qin Shi Huang"
+      }
+    ]
+  }
+]

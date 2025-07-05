@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
+    "choices": ["France", "Royaume-Uni", "Allemagne", "Italie"],
+    "answer": "Royaume-Uni"
+  },
+  {
+    "id": 2,
+    "question": "Quelle organisation regroupe les États-Unis, le Canada et le Mexique ?",
+    "choices": ["ALENA", "UE", "ASEAN", "OTAN"],
+    "answer": "ALENA"
+  },
+  {
+    "id": 3,
+    "question": "Quel pays est le plus grand producteur de pétrole au monde ?",
+    "choices": ["Arabie Saoudite", "États-Unis", "Russie", "Irak"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 4,
+    "question": "Quelle organisation internationale a été créée pour maintenir la paix et la sécurité internationales après la Seconde Guerre mondiale ?",
+    "choices": ["Ligue des Nations", "ONU", "OTAN", "OCDE"],
+    "answer": "ONU"
+  },
+  {
+    "id": 5,
+    "question": "Quel pays n'est pas un membre permanent du Conseil de sécurité des Nations Unies ?",
+    "choices": ["Chine", "France", "Allemagne", "États-Unis"],
+    "answer": "Allemagne"
+  },
+  {
+    "id": 6,
+    "question": "Quel pays est le plus grand exportateur de marchandises au monde ?",
+    "choices": ["États-Unis", "Chine", "Allemagne", "Japon"],
+    "answer": "Chine"
+  },
+  {
+    "id": 7,
+    "question": "Quelle organisation a été créée pour favoriser l'intégration économique de l'Europe ?",
+    "choices": ["OTAN", "OCDE", "UE", "G7"],
+    "answer": "UE"
+  },
+  {
+    "id": 8,
+    "question": "Quel pays est le plus grand en superficie ?",
+    "choices": ["Chine", "Canada", "États-Unis", "Russie"],
+    "answer": "Russie"
+  },
+  {
+    "id": 9,
+    "question": "Quel pays n'est pas membre de l'OTAN ?",
+    "choices": ["France", "Allemagne", "Russie", "Canada"],
+    "answer": "Russie"
+  },
+  {
+    "id": 10,
+    "question": "Quelle organisation a été fondée pour réguler le commerce international ?",
+    "choices": ["FMI", "OMC", "Banque mondiale", "OCDE"],
+    "answer": "OMC"
+  },
+  {
+    "id": 11,
+    "question": "Quel pays est le plus peuplé du monde ?",
+    "choices": ["Inde", "États-Unis", "Chine", "Indonésie"],
+    "answer": "Chine"
+  },
+  {
+    "id": 12,
+    "question": "Quel pays est le plus grand producteur de café ?",
+    "choices": ["Colombie", "Vietnam", "Brésil", "Indonésie"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 13,
+    "question": "Quelle organisation a été créée pour promouvoir la coopération économique en Asie-Pacifique ?",
+    "choices": ["ASEAN", "APEC", "SAARC", "Mercosur"],
+    "answer": "APEC"
+  },
+  {
+    "id": 14,
+    "question": "Quel pays est le plus grand producteur d'acier ?",
+    "choices": ["Japon", "États-Unis", "Chine", "Allemagne"],
+    "answer": "Chine"
+  },
+  {
+    "id": 15,
+    "question": "Quel pays est le plus grand exportateur de gaz naturel ?",
+    "choices": ["Qatar", "Russie", "Iran", "Norvège"],
+    "answer": "Russie"
+  },
+  {
+    "id": 16,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique latine ?",
+    "choices": ["ALBA", "Mercosur", "CELAC", "OEA"],
+    "answer": "Mercosur"
+  },
+  {
+    "id": 17,
+    "question": "Quel pays est le plus grand producteur de diamants ?",
+    "choices": ["Afrique du Sud", "Russie", "Canada", "Botswana"],
+    "answer": "Russie"
+  },
+  {
+    "id": 18,
+    "question": "Quel pays est le plus grand producteur de cuivre ?",
+    "choices": ["Chili", "Pérou", "Chine", "États-Unis"],
+    "answer": "Chili"
+  },
+  {
+    "id": 19,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique ?",
+    "choices": ["UA", "CEDEAO", "SADC", "COMESA"],
+    "answer": "UA"
+  },
+  {
+    "id": 20,
+    "question": "Quel pays est le plus grand producteur de blé ?",
+    "choices": ["Inde", "États-Unis", "Chine", "Russie"],
+    "answer": "Chine"
+  },
+  {
+    "id": 21,
+    "question": "Quel pays est le plus grand producteur de sucre ?",
+    "choices": ["Brésil", "Inde", "Chine", "Thaïlande"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 22,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique dans le monde arabe ?",
+    "choices": ["Ligue arabe", "GCC", "OCI", "UMA"],
+    "answer": "Ligue arabe"
+  },
+  {
+    "id": 23,
+    "question": "Quel pays est le plus grand producteur de coton ?",
+    "choices": ["États-Unis", "Chine", "Inde", "Brésil"],
+    "answer": "Inde"
+  },
+  {
+    "id": 24,
+    "question": "Quel pays est le plus grand producteur de riz ?",
+    "choices": ["Inde", "Indonésie", "Chine", "Vietnam"],
+    "answer": "Chine"
+  },
+  {
+    "id": 25,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique du Nord ?",
+    "choices": ["ALENA", "OTAN", "OCDE", "G7"],
+    "answer": "ALENA"
+  },
+  {
+    "id": 26,
+    "question": "Quel pays est le plus grand producteur de maïs ?",
+    "choices": ["Brésil", "Chine", "États-Unis", "Inde"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 27,
+    "question": "Quel pays est le plus grand producteur de soja ?",
+    "choices": ["Brésil", "États-Unis", "Argentine", "Chine"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 28,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie du Sud ?",
+    "choices": ["ASEAN", "SAARC", "APEC", "OCS"],
+    "answer": "SAARC"
+  },
+  {
+    "id": 29,
+    "question": "Quel pays est le plus grand producteur de cacao ?",
+    "choices": ["Brésil", "Côte d'Ivoire", "Ghana", "Nigeria"],
+    "answer": "Côte d'Ivoire"
+  },
+  {
+    "id": 30,
+    "question": "Quel pays est le plus grand producteur de caoutchouc naturel ?",
+    "choices": ["Indonésie", "Malaisie", "Thaïlande", "Vietnam"],
+    "answer": "Thaïlande"
+  },
+  {
+    "id": 31,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Europe de l'Est ?",
+    "choices": ["UE", "OCDE", "OTAN", "CEI"],
+    "answer": "CEI"
+  },
+  {
+    "id": 32,
+    "question": "Quel pays est le plus grand producteur de bananes ?",
+    "choices": ["Équateur", "Costa Rica", "Inde", "Brésil"],
+    "answer": "Inde"
+  },
+  {
+    "id": 33,
+    "question": "Quel pays est le plus grand producteur de thé ?",
+    "choices": ["Inde", "Kenya", "Sri Lanka", "Chine"],
+    "answer": "Chine"
+  },
+  {
+    "id": 34,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique centrale ?",
+    "choices": ["CARICOM", "SICA", "ALBA", "CELAC"],
+    "answer": "SICA"
+  },
+  {
+    "id": 35,
+    "question": "Quel pays est le plus grand producteur de vin ?",
+    "choices": ["France", "Italie", "Espagne", "États-Unis"],
+    "answer": "Italie"
+  },
+  {
+    "id": 36,
+    "question": "Quel pays est le plus grand producteur de bière ?",
+    "choices": ["Allemagne", "États-Unis", "Chine", "Brésil"],
+    "answer": "Chine"
+  },
+  {
+    "id": 37,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Ouest ?",
+    "choices": ["UA", "CEDEAO", "SADC", "COMESA"],
+    "answer": "CEDEAO"
+  },
+  {
+    "id": 38,
+    "question": "Quel pays est le plus grand producteur de tabac ?",
+    "choices": ["Inde", "Brésil", "Chine", "États-Unis"],
+    "answer": "Chine"
+  },
+  {
+    "id": 39,
+    "question": "Quel pays est le plus grand producteur de noix de cajou ?",
+    "choices": ["Vietnam", "Inde", "Côte d'Ivoire", "Philippines"],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 40,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie centrale ?",
+    "choices": ["ASEAN", "SAARC", "OCS", "APEC"],
+    "answer": "OCS"
+  },
+  {
+    "id": 41,
+    "question": "Quel pays est le plus grand producteur de noix de coco ?",
+    "choices": ["Indonésie", "Philippines", "Inde", "Brésil"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 42,
+    "question": "Quel pays est le plus grand producteur de vanille ?",
+    "choices": [
+      "Madagascar",
+      "Indonésie",
+      "Mexique",
+      "Papouasie-Nouvelle-Guinée"
+    ],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 43,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique du Sud ?",
+    "choices": ["ALBA", "Mercosur", "CELAC", "OEA"],
+    "answer": "Mercosur"
+  },
+  {
+    "id": 44,
+    "question": "Quel pays est le plus grand producteur de poivre ?",
+    "choices": ["Inde", "Vietnam", "Brésil", "Indonésie"],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 45,
+    "question": "Quel pays est le plus grand producteur de gingembre ?",
+    "choices": ["Chine", "Inde", "Indonésie", "Népal"],
+    "answer": "Inde"
+  },
+  {
+    "id": 46,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique centrale ?",
+    "choices": ["UA", "CEMAC", "SADC", "COMESA"],
+    "answer": "CEMAC"
+  },
+  {
+    "id": 47,
+    "question": "Quel pays est le plus grand producteur de cannelle ?",
+    "choices": ["Sri Lanka", "Indonésie", "Chine", "Vietnam"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 48,
+    "question": "Quel pays est le plus grand producteur de clous de girofle ?",
+    "choices": ["Indonésie", "Madagascar", "Inde", "Sri Lanka"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 49,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Est ?",
+    "choices": ["UA", "CEDEAO", "EAC", "COMESA"],
+    "answer": "EAC"
+  },
+  {
+    "id": 50,
+    "question": "Quel pays est le plus grand producteur de muscade ?",
+    "choices": ["Indonésie", "Grenade", "Inde", "Sri Lanka"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 51,
+    "question": "Quel pays est le plus grand producteur de pétrole en Afrique ?",
+    "choices": ["Nigeria", "Angola", "Algérie", "Libye"],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 52,
+    "question": "Quelle organisation internationale a son siège à Genève ?",
+    "choices": ["ONU", "OTAN", "Croix-Rouge", "OMC"],
+    "answer": "ONU"
+  },
+  {
+    "id": 53,
+    "question": "Quel pays est le plus grand producteur de gaz naturel en Afrique ?",
+    "choices": ["Algérie", "Nigeria", "Égypte", "Libye"],
+    "answer": "Algérie"
+  },
+  {
+    "id": 54,
+    "question": "Quelle organisation a été créée pour promouvoir la coopération économique en Amérique du Sud ?",
+    "choices": ["ALBA", "Mercosur", "CELAC", "OEA"],
+    "answer": "Mercosur"
+  },
+  {
+    "id": 55,
+    "question": "Quel pays est le plus grand producteur de café en Amérique latine ?",
+    "choices": ["Colombie", "Brésil", "Pérou", "Mexique"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 56,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Est ?",
+    "choices": ["UA", "CEDEAO", "EAC", "COMESA"],
+    "answer": "EAC"
+  },
+  {
+    "id": 57,
+    "question": "Quel pays est le plus grand producteur de cacao en Amérique du Sud ?",
+    "choices": ["Brésil", "Colombie", "Équateur", "Pérou"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 58,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie du Sud-Est ?",
+    "choices": ["ASEAN", "SAARC", "APEC", "OCS"],
+    "answer": "ASEAN"
+  },
+  {
+    "id": 59,
+    "question": "Quel pays est le plus grand producteur de sucre en Amérique du Nord ?",
+    "choices": ["États-Unis", "Mexique", "Canada", "Cuba"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 60,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Europe du Nord ?",
+    "choices": ["Conseil nordique", "UE", "OTAN", "OCDE"],
+    "answer": "Conseil nordique"
+  },
+  {
+    "id": 61,
+    "question": "Quel pays est le plus grand producteur de coton en Asie ?",
+    "choices": ["Chine", "Inde", "Pakistan", "Bangladesh"],
+    "answer": "Chine"
+  },
+  {
+    "id": 62,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique du Nord ?",
+    "choices": ["UMA", "Ligue arabe", "OCI", "GCC"],
+    "answer": "UMA"
+  },
+  {
+    "id": 63,
+    "question": "Quel pays est le plus grand producteur de riz en Asie du Sud-Est ?",
+    "choices": ["Thaïlande", "Vietnam", "Indonésie", "Philippines"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 64,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique centrale ?",
+    "choices": ["SICA", "CARICOM", "ALBA", "CELAC"],
+    "answer": "SICA"
+  },
+  {
+    "id": 65,
+    "question": "Quel pays est le plus grand producteur de maïs en Amérique du Sud ?",
+    "choices": ["Brésil", "Argentine", "Colombie", "Pérou"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 66,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Ouest ?",
+    "choices": ["CEDEAO", "UA", "SADC", "COMESA"],
+    "answer": "CEDEAO"
+  },
+  {
+    "id": 67,
+    "question": "Quel pays est le plus grand producteur de soja en Amérique du Sud ?",
+    "choices": ["Brésil", "Argentine", "Paraguay", "Uruguay"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 68,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie centrale ?",
+    "choices": ["OCS", "ASEAN", "SAARC", "APEC"],
+    "answer": "OCS"
+  },
+  {
+    "id": 69,
+    "question": "Quel pays est le plus grand producteur de cacao en Afrique ?",
+    "choices": ["Côte d'Ivoire", "Ghana", "Nigeria", "Cameroun"],
+    "answer": "Côte d'Ivoire"
+  },
+  {
+    "id": 70,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Europe de l'Est ?",
+    "choices": ["CEI", "UE", "OTAN", "OCDE"],
+    "answer": "CEI"
+  },
+  {
+    "id": 71,
+    "question": "Quel pays est le plus grand producteur de café en Afrique ?",
+    "choices": ["Éthiopie", "Côte d'Ivoire", "Ouganda", "Kenya"],
+    "answer": "Éthiopie"
+  },
+  {
+    "id": 72,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique australe ?",
+    "choices": ["SADC", "UA", "CEDEAO", "COMESA"],
+    "answer": "SADC"
+  },
+  {
+    "id": 73,
+    "question": "Quel pays est le plus grand producteur de sucre en Asie ?",
+    "choices": ["Inde", "Chine", "Thaïlande", "Indonésie"],
+    "answer": "Inde"
+  },
+  {
+    "id": 74,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie du Sud ?",
+    "choices": ["SAARC", "ASEAN", "APEC", "OCS"],
+    "answer": "SAARC"
+  },
+  {
+    "id": 75,
+    "question": "Quel pays est le plus grand producteur de coton en Amérique du Nord ?",
+    "choices": ["États-Unis", "Mexique", "Canada", "Cuba"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 76,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique centrale ?",
+    "choices": ["CEMAC", "UA", "SADC", "COMESA"],
+    "answer": "CEMAC"
+  },
+  {
+    "id": 77,
+    "question": "Quel pays est le plus grand producteur de riz en Amérique du Nord ?",
+    "choices": ["États-Unis", "Mexique", "Canada", "Cuba"],
+    "answer": "États-Unis"
+  },
+  {
+    "id": 78,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique du Nord ?",
+    "choices": ["ALENA", "OTAN", "OCDE", "G7"],
+    "answer": "ALENA"
+  },
+  {
+    "id": 79,
+    "question": "Quel pays est le plus grand producteur de maïs en Afrique ?",
+    "choices": ["Afrique du Sud", "Nigeria", "Égypte", "Éthiopie"],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 80,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Europe du Sud ?",
+    "choices": ["UE", "OTAN", "OCDE", "Conseil de l'Europe"],
+    "answer": "Conseil de l'Europe"
+  },
+  {
+    "id": 81,
+    "question": "Quel pays est le plus grand producteur de soja en Amérique du Sud ?",
+    "choices": ["Nigeria", "Afrique du Sud", "Égypte", "Éthiopie"],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 82,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie de l'Est ?",
+    "choices": ["ASEAN", "APEC", "SAARC", "OCS"],
+    "answer": "APEC"
+  },
+  {
+    "id": 83,
+    "question": "Quel pays est le plus grand producteur de cacao en Asie ?",
+    "choices": ["Indonésie", "Malaisie", "Thaïlande", "Vietnam"],
+    "answer": "Indonésie"
+  },
+  {
+    "id": 84,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique du Nord ?",
+    "choices": ["UMA", "Ligue arabe", "OCI", "GCC"],
+    "answer": "UMA"
+  },
+  {
+    "id": 85,
+    "question": "Quel pays est le plus grand producteur de sucre en Europe ?",
+    "choices": ["France", "Allemagne", "Pologne", "Ukraine"],
+    "answer": "France"
+  },
+  {
+    "id": 86,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique du Sud ?",
+    "choices": ["ALBA", "Mercosur", "CELAC", "OEA"],
+    "answer": "Mercosur"
+  },
+  {
+    "id": 87,
+    "question": "Quel pays est le plus grand producteur de coton en Europe ?",
+    "choices": ["Espagne", "Grèce", "Italie", "France"],
+    "answer": "Grèce"
+  },
+  {
+    "id": 88,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie du Sud-Est ?",
+    "choices": ["ASEAN", "SAARC", "APEC", "OCS"],
+    "answer": "ASEAN"
+  },
+  {
+    "id": 89,
+    "question": "Quel pays est le plus grand producteur de riz en Amérique du Sud ?",
+    "choices": ["Brésil", "Colombie", "Pérou", "Argentine"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 90,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Ouest ?",
+    "choices": ["CEDEAO", "UA", "SADC", "COMESA"],
+    "answer": "CEDEAO"
+  },
+  {
+    "id": 91,
+    "question": "Quel pays est le plus grand producteur de maïs en Asie ?",
+    "choices": ["Chine", "Inde", "Indonésie", "Thaïlande"],
+    "answer": "Chine"
+  },
+  {
+    "id": 92,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Europe de l'Est ?",
+    "choices": ["CEI", "UE", "OTAN", "OCDE"],
+    "answer": "CEI"
+  },
+  {
+    "id": 93,
+    "question": "Quel pays est le plus grand producteur de soja en Amérique du Sud ?",
+    "choices": ["Brésil", "Argentine", "Paraguay", "Uruguay"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 94,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique centrale ?",
+    "choices": ["CEMAC", "UA", "SADC", "COMESA"],
+    "answer": "CEMAC"
+  },
+  {
+    "id": 95,
+    "question": "Quel pays est le plus grand producteur de cacao en Europe ?",
+    "choices": ["Espagne", "Portugal", "Italie", "France"],
+    "answer": "Portugal"
+  },
+  {
+    "id": 96,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Asie centrale ?",
+    "choices": ["OCS", "ASEAN", "SAARC", "APEC"],
+    "answer": "OCS"
+  },
+  {
+    "id": 97,
+    "question": "Quel pays est le plus grand producteur de sucre en Afrique ?",
+    "choices": ["Afrique du Sud", "Égypte", "Maroc", "Kenya"],
+    "answer": "Afrique du Sud"
+  },
+  {
+    "id": 98,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Amérique du Nord ?",
+    "choices": ["ALENA", "OTAN", "OCDE", "G7"],
+    "answer": "ALENA"
+  },
+  {
+    "id": 99,
+    "question": "Quel pays est le plus grand producteur de coton en Amérique du Sud ?",
+    "choices": ["Brésil", "Colombie", "Pérou", "Argentine"],
+    "answer": "Brésil"
+  },
+  {
+    "id": 100,
+    "question": "Quelle organisation a été fondée pour promouvoir la coopération économique en Afrique de l'Est ?",
+    "choices": ["UA", "CEDEAO", "EAC", "COMESA"],
+    "answer": "EAC"
+  }
+]

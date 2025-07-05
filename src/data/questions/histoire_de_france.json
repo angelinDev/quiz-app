@@ -1,0 +1,1012 @@
+[
+  {
+    "id": 1,
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "choices": ["1789", "1815", "1848", "1914"],
+    "answer": "1789"
+  },
+  {
+    "id": 2,
+    "question": "Qui était le roi de France lors de la Révolution française ?",
+    "choices": ["Louis XIV", "Louis XV", "Louis XVI", "Napoléon Ier"],
+    "answer": "Louis XVI"
+  },
+  {
+    "id": 3,
+    "question": "Quel événement marque traditionnellement le début de la Révolution française ?",
+    "choices": [
+      "La prise de la Bastille",
+      "L'exécution de Louis XVI",
+      "La convocation des États généraux",
+      "La Grande Peur"
+    ],
+    "answer": "La prise de la Bastille"
+  },
+  {
+    "id": 4,
+    "question": "Qui était le célèbre général français qui est devenu empereur des Français ?",
+    "choices": [
+      "Louis XIV",
+      "Louis XVI",
+      "Napoléon Bonaparte",
+      "Charles de Gaulle"
+    ],
+    "answer": "Napoléon Bonaparte"
+  },
+  {
+    "id": 5,
+    "question": "Quel traité a mis fin à la guerre de Sept Ans en 1763 ?",
+    "choices": [
+      "Le traité de Paris",
+      "Le traité de Versailles",
+      "Le traité de Tordesillas",
+      "Le traité de Rome"
+    ],
+    "answer": "Le traité de Paris"
+  },
+  {
+    "id": 6,
+    "question": "Qui était le roi de France connu sous le nom de 'Roi-Soleil' ?",
+    "choices": ["Louis XII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "answer": "Louis XIV"
+  },
+  {
+    "id": 7,
+    "question": "Quel était le nom du palais royal construit par Louis XIV ?",
+    "choices": ["Le Louvre", "Fontainebleau", "Versailles", "Saint-Cloud"],
+    "answer": "Versailles"
+  },
+  {
+    "id": 8,
+    "question": "Qui était la célèbre reine de France, épouse de Louis XVI, connue pour sa phrase 'Qu'ils mangent de la brioche' ?",
+    "choices": [
+      "Marie-Antoinette",
+      "Catherine de Médicis",
+      "Anne d'Autriche",
+      "Marguerite de Valois"
+    ],
+    "answer": "Marie-Antoinette"
+  },
+  {
+    "id": 9,
+    "question": "Quel était le nom de la période de violence pendant la Révolution française ?",
+    "choices": ["La Grande Peur", "La Terreur", "Le Directoire", "Le Consulat"],
+    "answer": "La Terreur"
+  },
+  {
+    "id": 10,
+    "question": "Qui était le leader jacobin pendant la Révolution française ?",
+    "choices": [
+      "Georges Danton",
+      "Jean-Paul Marat",
+      "Maximilien Robespierre",
+      "Louis de Saint-Just"
+    ],
+    "answer": "Maximilien Robespierre"
+  },
+  {
+    "id": 11,
+    "question": "Quel était le nom du code civil français introduit par Napoléon en 1804 ?",
+    "choices": [
+      "Le Code Louis",
+      "Le Code Napoléon",
+      "Le Code civil des Français",
+      "Le Code de Justinien"
+    ],
+    "answer": "Le Code civil des Français"
+  },
+  {
+    "id": 12,
+    "question": "Qui était le célèbre écrivain français auteur des 'Misérables' ?",
+    "choices": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
+    ],
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 13,
+    "question": "Quel était le nom de la bataille où Napoléon a été finalement vaincu en 1815 ?",
+    "choices": [
+      "La bataille d'Austerlitz",
+      "La bataille de Waterloo",
+      "La bataille de Marengo",
+      "La bataille d'Iéna"
+    ],
+    "answer": "La bataille de Waterloo"
+  },
+  {
+    "id": 14,
+    "question": "Qui était le célèbre scientifique français connu pour ses travaux sur la vaccination ?",
+    "choices": [
+      "Louis Pasteur",
+      "Marie Curie",
+      "Antoine Lavoisier",
+      "René Descartes"
+    ],
+    "answer": "Louis Pasteur"
+  },
+  {
+    "id": 15,
+    "question": "Quel était le nom de la célèbre cathédrale française construite à Paris au 12ème siècle ?",
+    "choices": [
+      "Notre-Dame de Paris",
+      "Sainte-Chapelle",
+      "Saint-Denis",
+      "Sacré-Cœur"
+    ],
+    "answer": "Notre-Dame de Paris"
+  },
+  {
+    "id": 16,
+    "question": "Qui était le célèbre peintre impressionniste français connu pour ses nymphéas ?",
+    "choices": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Henri de Toulouse-Lautrec"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 17,
+    "question": "Quel était le nom de la célèbre place parisienne où se trouve l'obélisque de Louxor ?",
+    "choices": [
+      "Place de la Concorde",
+      "Place Vendôme",
+      "Place de la Bastille",
+      "Place des Vosges"
+    ],
+    "answer": "Place de la Concorde"
+  },
+  {
+    "id": 18,
+    "question": "Qui était le célèbre compositeur français connu pour son 'Boléro' ?",
+    "choices": [
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Camille Saint-Saëns",
+      "Hector Berlioz"
+    ],
+    "answer": "Maurice Ravel"
+  },
+  {
+    "id": 19,
+    "question": "Quel était le nom de la célèbre prison parisienne prise d'assaut le 14 juillet 1789 ?",
+    "choices": ["La Conciergerie", "La Bastille", "La Santé", "La Roquette"],
+    "answer": "La Bastille"
+  },
+  {
+    "id": 20,
+    "question": "Qui était le célèbre écrivain français auteur des 'Trois Mousquetaires' ?",
+    "choices": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "id": 21,
+    "question": "Quel était le nom de la célèbre bataille où Jeanne d'Arc a mené les Français à la victoire en 1429 ?",
+    "choices": [
+      "La bataille d'Azincourt",
+      "La bataille de Poitiers",
+      "La bataille d'Orléans",
+      "La bataille de Crécy"
+    ],
+    "answer": "La bataille d'Orléans"
+  },
+  {
+    "id": 22,
+    "question": "Qui était le célèbre cardinal et homme d'État français qui a servi sous Louis XIII ?",
+    "choices": [
+      "Le cardinal de Richelieu",
+      "Le cardinal Mazarin",
+      "Le cardinal de Fleury",
+      "Le cardinal de Retz"
+    ],
+    "answer": "Le cardinal de Richelieu"
+  },
+  {
+    "id": 23,
+    "question": "Quel était le nom de la célèbre académie fondée en France en 1635 ?",
+    "choices": [
+      "L'Académie des sciences",
+      "L'Académie des inscriptions et belles-lettres",
+      "L'Académie française",
+      "L'Académie des beaux-arts"
+    ],
+    "answer": "L'Académie française"
+  },
+  {
+    "id": 24,
+    "question": "Qui était le célèbre roi franc qui a unifié la Gaule au 5ème siècle ?",
+    "choices": ["Clovis Ier", "Charlemagne", "Dagobert Ier", "Pépin le Bref"],
+    "answer": "Clovis Ier"
+  },
+  {
+    "id": 25,
+    "question": "Quel était le nom de la célèbre cathédrale gothique construite à Reims ?",
+    "choices": [
+      "Notre-Dame de Reims",
+      "Sainte-Chapelle de Reims",
+      "Saint-Denis de Reims",
+      "Sacré-Cœur de Reims"
+    ],
+    "answer": "Notre-Dame de Reims"
+  },
+  {
+    "id": 26,
+    "question": "Qui était le célèbre empereur romain qui a construit une ville portant son nom en France ?",
+    "choices": ["Jules César", "Auguste", "Néron", "Hadrien"],
+    "answer": "Auguste"
+  },
+  {
+    "id": 27,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Autrichiens en 1805 ?",
+    "choices": [
+      "La bataille d'Austerlitz",
+      "La bataille de Marengo",
+      "La bataille d'Iéna",
+      "La bataille de Wagram"
+    ],
+    "answer": "La bataille d'Austerlitz"
+  },
+  {
+    "id": 28,
+    "question": "Qui était le célèbre écrivain français auteur de 'À la recherche du temps perdu' ?",
+    "choices": [
+      "André Gide",
+      "Marcel Proust",
+      "Albert Camus",
+      "Jean-Paul Sartre"
+    ],
+    "answer": "Marcel Proust"
+  },
+  {
+    "id": 29,
+    "question": "Quel était le nom de la célèbre loi française qui a aboli la peine de mort en 1981 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur la laïcité",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi Badinter"
+  },
+  {
+    "id": 30,
+    "question": "Qui était le célèbre sculpteur français connu pour ses œuvres 'Le Penseur' et 'La Porte de l'Enfer' ?",
+    "choices": [
+      "Auguste Rodin",
+      "Antoine Bourdelle",
+      "Aristide Maillol",
+      "Camille Claudel"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": 31,
+    "question": "Quel était le nom du célèbre traité signé en 843 qui a divisé l'Empire carolingien ?",
+    "choices": [
+      "Le traité de Verdun",
+      "Le traité de Troyes",
+      "Le traité de Paris",
+      "Le traité de Tordesillas"
+    ],
+    "answer": "Le traité de Verdun"
+  },
+  {
+    "id": 32,
+    "question": "Qui était le célèbre roi franc qui a été couronné empereur en 800 ?",
+    "choices": ["Clovis Ier", "Charlemagne", "Dagobert Ier", "Pépin le Bref"],
+    "answer": "Charlemagne"
+  },
+  {
+    "id": 33,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Anglais en 1453, mettant fin à la guerre de Cent Ans ?",
+    "choices": [
+      "La bataille d'Azincourt",
+      "La bataille de Castillon",
+      "La bataille de Crécy",
+      "La bataille de Poitiers"
+    ],
+    "answer": "La bataille de Castillon"
+  },
+  {
+    "id": 34,
+    "question": "Qui était le célèbre cardinal et homme d'État français qui a servi sous Louis XIV ?",
+    "choices": [
+      "Le cardinal de Richelieu",
+      "Le cardinal Mazarin",
+      "Le cardinal de Fleury",
+      "Le cardinal de Retz"
+    ],
+    "answer": "Le cardinal Mazarin"
+  },
+  {
+    "id": 35,
+    "question": "Quel était le nom de la célèbre académie fondée en France en 1663 pour promouvoir les arts ?",
+    "choices": [
+      "L'Académie des sciences",
+      "L'Académie des inscriptions et belles-lettres",
+      "L'Académie française",
+      "L'Académie des beaux-arts"
+    ],
+    "answer": "L'Académie des beaux-arts"
+  },
+  {
+    "id": 36,
+    "question": "Qui était le célèbre roi de France connu pour son règne long et prospère au 16ème siècle ?",
+    "choices": ["François Ier", "Henri II", "Charles IX", "Henri IV"],
+    "answer": "François Ier"
+  },
+  {
+    "id": 37,
+    "question": "Quel était le nom de la célèbre cathédrale gothique construite à Amiens ?",
+    "choices": [
+      "Notre-Dame d'Amiens",
+      "Sainte-Chapelle d'Amiens",
+      "Saint-Denis d'Amiens",
+      "Sacré-Cœur d'Amiens"
+    ],
+    "answer": "Notre-Dame d'Amiens"
+  },
+  {
+    "id": 38,
+    "question": "Qui était le célèbre empereur romain qui a construit une ville portant son nom en Gaule ?",
+    "choices": ["Jules César", "Auguste", "Néron", "Hadrien"],
+    "answer": "Auguste"
+  },
+  {
+    "id": 39,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Espagnols en 1643 ?",
+    "choices": [
+      "La bataille de Rocroi",
+      "La bataille de Lens",
+      "La bataille de Nordlingen",
+      "La bataille de Fribourg"
+    ],
+    "answer": "La bataille de Rocroi"
+  },
+  {
+    "id": 40,
+    "question": "Qui était le célèbre écrivain français auteur de 'Les Fleurs du Mal' ?",
+    "choices": [
+      "Victor Hugo",
+      "Charles Baudelaire",
+      "Arthur Rimbaud",
+      "Paul Verlaine"
+    ],
+    "answer": "Charles Baudelaire"
+  },
+  {
+    "id": 41,
+    "question": "Quel était le nom de la célèbre loi française qui a établi l'école gratuite, laïque et obligatoire en 1882 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi Ferry",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi Ferry"
+  },
+  {
+    "id": 42,
+    "question": "Qui était le célèbre peintre français connu pour ses portraits et ses scènes mythologiques ?",
+    "choices": [
+      "Nicolas Poussin",
+      "Claude Lorrain",
+      "Hyacinthe Rigaud",
+      "Antoine Watteau"
+    ],
+    "answer": "Hyacinthe Rigaud"
+  },
+  {
+    "id": 43,
+    "question": "Quel était le nom de la célèbre place forte construite par Vauban pour protéger la frontière nord de la France ?",
+    "choices": [
+      "La citadelle de Lille",
+      "La citadelle de Besançon",
+      "La citadelle de Belfort",
+      "La citadelle de Verdun"
+    ],
+    "answer": "La citadelle de Lille"
+  },
+  {
+    "id": 44,
+    "question": "Qui était le célèbre homme politique français connu pour son rôle dans la création de la Sécurité sociale ?",
+    "choices": [
+      "Georges Clemenceau",
+      "Jean Jaurès",
+      "Léon Blum",
+      "Pierre Laroque"
+    ],
+    "answer": "Pierre Laroque"
+  },
+  {
+    "id": 45,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Autrichiens en 1859 ?",
+    "choices": [
+      "La bataille de Solférino",
+      "La bataille de Magenta",
+      "La bataille de Marignan",
+      "La bataille de Malakoff"
+    ],
+    "answer": "La bataille de Solférino"
+  },
+  {
+    "id": 46,
+    "question": "Qui était le célèbre compositeur français connu pour son opéra 'Faust' ?",
+    "choices": [
+      "Georges Bizet",
+      "Charles Gounod",
+      "Jules Massenet",
+      "Camille Saint-Saëns"
+    ],
+    "answer": "Charles Gounod"
+  },
+  {
+    "id": 47,
+    "question": "Quel était le nom de la célèbre loi française qui a établi la liberté de la presse en 1881 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur la liberté de la presse",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi sur la liberté de la presse"
+  },
+  {
+    "id": 48,
+    "question": "Qui était le célèbre peintre impressionniste français connu pour ses scènes de la vie parisienne ?",
+    "choices": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Henri de Toulouse-Lautrec"
+    ],
+    "answer": "Pierre-Auguste Renoir"
+  },
+  {
+    "id": 49,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Prussiens en 1870 ?",
+    "choices": [
+      "La bataille de Sedan",
+      "La bataille de Metz",
+      "La bataille de Reichshoffen",
+      "La bataille de Saint-Privat"
+    ],
+    "answer": "La bataille de Saint-Privat"
+  },
+  {
+    "id": 50,
+    "question": "Qui était le célèbre écrivain français auteur de 'Le Comte de Monte-Cristo' ?",
+    "choices": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "id": 51,
+    "question": "Quel était le nom de la célèbre loi française qui a établi le droit à l'avortement en 2001 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur l'interruption volontaire de grossesse",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi sur l'interruption volontaire de grossesse"
+  },
+  {
+    "id": 52,
+    "question": "Qui était le célèbre sculpteur français connu pour ses œuvres 'Les Bourgeois de Calais' ?",
+    "choices": [
+      "Auguste Rodin",
+      "Antoine Bourdelle",
+      "Aristide Maillol",
+      "Camille Claudel"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": 53,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Anglais en 1415 ?",
+    "choices": [
+      "La bataille d'Azincourt",
+      "La bataille de Castillon",
+      "La bataille de Crécy",
+      "La bataille de Poitiers"
+    ],
+    "answer": "La bataille d'Azincourt"
+  },
+  {
+    "id": 54,
+    "question": "Qui était le célèbre cardinal et homme d'État français qui a servi sous Louis XIII et Louis XIV ?",
+    "choices": [
+      "Le cardinal de Richelieu",
+      "Le cardinal Mazarin",
+      "Le cardinal de Fleury",
+      "Le cardinal de Retz"
+    ],
+    "answer": "Le cardinal Mazarin"
+  },
+  {
+    "id": 55,
+    "question": "Quel était le nom de la célèbre académie fondée en France en 1666 pour promouvoir les sciences ?",
+    "choices": [
+      "L'Académie des sciences",
+      "L'Académie des inscriptions et belles-lettres",
+      "L'Académie française",
+      "L'Académie des beaux-arts"
+    ],
+    "answer": "L'Académie des sciences"
+  },
+  {
+    "id": 56,
+    "question": "Qui était le célèbre roi de France connu pour son édit de tolérance religieuse en 1598 ?",
+    "choices": ["François Ier", "Henri II", "Charles IX", "Henri IV"],
+    "answer": "Henri IV"
+  },
+  {
+    "id": 57,
+    "question": "Quel était le nom de la célèbre cathédrale gothique construite à Chartres ?",
+    "choices": [
+      "Notre-Dame de Chartres",
+      "Sainte-Chapelle de Chartres",
+      "Saint-Denis de Chartres",
+      "Sacré-Cœur de Chartres"
+    ],
+    "answer": "Notre-Dame de Chartres"
+  },
+  {
+    "id": 58,
+    "question": "Qui était le célèbre empereur romain qui a construit une ville portant son nom en Gaule ?",
+    "choices": ["Jules César", "Auguste", "Néron", "Hadrien"],
+    "answer": "Auguste"
+  },
+  {
+    "id": 59,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Espagnols en 1635 ?",
+    "choices": [
+      "La bataille des Avins",
+      "La bataille de Lens",
+      "La bataille de Nordlingen",
+      "La bataille de Fribourg"
+    ],
+    "answer": "La bataille des Avins"
+  },
+  {
+    "id": 60,
+    "question": "Qui était le célèbre écrivain français auteur de 'Les Contemplations' ?",
+    "choices": [
+      "Victor Hugo",
+      "Charles Baudelaire",
+      "Arthur Rimbaud",
+      "Paul Verlaine"
+    ],
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 61,
+    "question": "Quel était le nom de la célèbre loi française qui a établi l'égalité entre les hommes et les femmes en 1946 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur l'égalité des sexes",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi sur l'égalité des sexes"
+  },
+  {
+    "id": 62,
+    "question": "Qui était le célèbre peintre français connu pour ses paysages et ses scènes de la vie rurale ?",
+    "choices": [
+      "Jean-François Millet",
+      "Gustave Courbet",
+      "Théodore Rousseau",
+      "Charles-François Daubigny"
+    ],
+    "answer": "Jean-François Millet"
+  },
+  {
+    "id": 63,
+    "question": "Quel était le nom de la célèbre place forte construite par Vauban pour protéger la frontière est de la France ?",
+    "choices": [
+      "La citadelle de Lille",
+      "La citadelle de Besançon",
+      "La citadelle de Belfort",
+      "La citadelle de Verdun"
+    ],
+    "answer": "La citadelle de Verdun"
+  },
+  {
+    "id": 64,
+    "question": "Qui était le célèbre homme politique français connu pour son rôle dans la création de l'Union européenne ?",
+    "choices": [
+      "Georges Clemenceau",
+      "Jean Monnet",
+      "Robert Schuman",
+      "Charles de Gaulle"
+    ],
+    "answer": "Robert Schuman"
+  },
+  {
+    "id": 65,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Russes et les Autrichiens en 1805 ?",
+    "choices": [
+      "La bataille d'Austerlitz",
+      "La bataille de Marengo",
+      "La bataille d'Iéna",
+      "La bataille de Wagram"
+    ],
+    "answer": "La bataille d'Austerlitz"
+  },
+  {
+    "id": 66,
+    "question": "Qui était le célèbre compositeur français connu pour son opéra 'Samson et Dalila' ?",
+    "choices": [
+      "Georges Bizet",
+      "Charles Gounod",
+      "Camille Saint-Saëns",
+      "Jules Massenet"
+    ],
+    "answer": "Camille Saint-Saëns"
+  },
+  {
+    "id": 67,
+    "question": "Quel était le nom de la célèbre loi française qui a établi le droit de vote des femmes en 1944 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur le droit de vote des femmes",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi sur le droit de vote des femmes"
+  },
+  {
+    "id": 68,
+    "question": "Qui était le célèbre peintre postimpressionniste français connu pour ses paysages et ses scènes de la vie rurale ?",
+    "choices": [
+      "Paul Cézanne",
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Georges Seurat"
+    ],
+    "answer": "Paul Gauguin"
+  },
+  {
+    "id": 69,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Prussiens en 1870 ?",
+    "choices": [
+      "La bataille de Sedan",
+      "La bataille de Metz",
+      "La bataille de Reichshoffen",
+      "La bataille de Saint-Privat"
+    ],
+    "answer": "La bataille de Metz"
+  },
+  {
+    "id": 70,
+    "question": "Qui était le célèbre écrivain français auteur de 'Germinal' ?",
+    "choices": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
+    ],
+    "answer": "Émile Zola"
+  },
+  {
+    "id": 71,
+    "question": "Quel était le nom de la célèbre loi française qui a établi le droit à l'éducation pour tous en 1959 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi Debré",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi Debré"
+  },
+  {
+    "id": 72,
+    "question": "Qui était le célèbre sculpteur français connu pour ses œuvres 'La Danse' et 'La Musique' ?",
+    "choices": [
+      "Auguste Rodin",
+      "Antoine Bourdelle",
+      "Aristide Maillol",
+      "Camille Claudel"
+    ],
+    "answer": "Camille Claudel"
+  },
+  {
+    "id": 73,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Anglais en 1356 ?",
+    "choices": [
+      "La bataille d'Azincourt",
+      "La bataille de Castillon",
+      "La bataille de Crécy",
+      "La bataille de Poitiers"
+    ],
+    "answer": "La bataille de Poitiers"
+  },
+  {
+    "id": 74,
+    "question": "Qui était le célèbre cardinal et homme d'État français qui a servi sous Louis XIII ?",
+    "choices": [
+      "Le cardinal de Richelieu",
+      "Le cardinal Mazarin",
+      "Le cardinal de Fleury",
+      "Le cardinal de Retz"
+    ],
+    "answer": "Le cardinal de Richelieu"
+  },
+  {
+    "id": 75,
+    "question": "Quel était le nom de la célèbre académie fondée en France en 1635 pour promouvoir la langue française ?",
+    "choices": [
+      "L'Académie des sciences",
+      "L'Académie des inscriptions et belles-lettres",
+      "L'Académie française",
+      "L'Académie des beaux-arts"
+    ],
+    "answer": "L'Académie française"
+  },
+  {
+    "id": 76,
+    "question": "Qui était le célèbre roi de France connu pour son règne long et prospère au 17ème siècle ?",
+    "choices": ["Louis XII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "answer": "Louis XIV"
+  },
+  {
+    "id": 77,
+    "question": "Quel était le nom de la célèbre cathédrale gothique construite à Rouen ?",
+    "choices": [
+      "Notre-Dame de Rouen",
+      "Sainte-Chapelle de Rouen",
+      "Saint-Denis de Rouen",
+      "Sacré-Cœur de Rouen"
+    ],
+    "answer": "Notre-Dame de Rouen"
+  },
+  {
+    "id": 78,
+    "question": "Qui était le célèbre empereur romain qui a construit une ville portant son nom en Gaule ?",
+    "choices": ["Jules César", "Auguste", "Néron", "Hadrien"],
+    "answer": "Auguste"
+  },
+  {
+    "id": 79,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Espagnols en 1658 ?",
+    "choices": [
+      "La bataille des Dunes",
+      "La bataille de Lens",
+      "La bataille de Nordlingen",
+      "La bataille de Fribourg"
+    ],
+    "answer": "La bataille des Dunes"
+  },
+  {
+    "id": 80,
+    "question": "Qui était le célèbre écrivain français auteur de 'Les Essais' ?",
+    "choices": [
+      "François Rabelais",
+      "Michel de Montaigne",
+      "Blaise Pascal",
+      "René Descartes"
+    ],
+    "answer": "Michel de Montaigne"
+  },
+  {
+    "id": 81,
+    "question": "Quel était le nom du célèbre traité signé en 843 qui a divisé l'Empire carolingien ?",
+    "choices": [
+      "Le traité de Verdun",
+      "Le traité de Troyes",
+      "Le traité de Paris",
+      "Le traité de Tordesillas"
+    ],
+    "answer": "Le traité de Verdun"
+  },
+  {
+    "id": 82,
+    "question": "Qui était le célèbre roi franc qui a été couronné empereur en 800 ?",
+    "choices": ["Clovis Ier", "Charlemagne", "Dagobert Ier", "Pépin le Bref"],
+    "answer": "Charlemagne"
+  },
+  {
+    "id": 83,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Anglais en 1453, mettant fin à la guerre de Cent Ans ?",
+    "choices": [
+      "La bataille d'Azincourt",
+      "La bataille de Castillon",
+      "La bataille de Crécy",
+      "La bataille de Poitiers"
+    ],
+    "answer": "La bataille de Castillon"
+  },
+  {
+    "id": 84,
+    "question": "Qui était le célèbre cardinal et homme d'État français qui a servi sous Louis XIV ?",
+    "choices": [
+      "Le cardinal de Richelieu",
+      "Le cardinal Mazarin",
+      "Le cardinal de Fleury",
+      "Le cardinal de Retz"
+    ],
+    "answer": "Le cardinal Mazarin"
+  },
+  {
+    "id": 85,
+    "question": "Quel était le nom de la célèbre académie fondée en France en 1663 pour promouvoir les arts ?",
+    "choices": [
+      "L'Académie des sciences",
+      "L'Académie des inscriptions et belles-lettres",
+      "L'Académie française",
+      "L'Académie des beaux-arts"
+    ],
+    "answer": "L'Académie des beaux-arts"
+  },
+  {
+    "id": 86,
+    "question": "Qui était le célèbre roi de France connu pour son règne long et prospère au 16ème siècle ?",
+    "choices": ["François Ier", "Henri II", "Charles IX", "Henri IV"],
+    "answer": "François Ier"
+  },
+  {
+    "id": 87,
+    "question": "Quel était le nom de la célèbre cathédrale gothique construite à Amiens ?",
+    "choices": [
+      "Notre-Dame d'Amiens",
+      "Sainte-Chapelle d'Amiens",
+      "Saint-Denis d'Amiens",
+      "Sacré-Cœur d'Amiens"
+    ],
+    "answer": "Notre-Dame d'Amiens"
+  },
+  {
+    "id": 88,
+    "question": "Qui était le célèbre empereur romain qui a construit une ville portant son nom en Gaule ?",
+    "choices": ["Jules César", "Auguste", "Néron", "Hadrien"],
+    "answer": "Auguste"
+  },
+  {
+    "id": 89,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Espagnols en 1643 ?",
+    "choices": [
+      "La bataille de Rocroi",
+      "La bataille de Lens",
+      "La bataille de Nordlingen",
+      "La bataille de Fribourg"
+    ],
+    "answer": "La bataille de Rocroi"
+  },
+  {
+    "id": 90,
+    "question": "Qui était le célèbre écrivain français auteur de 'Les Fleurs du Mal' ?",
+    "choices": [
+      "Victor Hugo",
+      "Charles Baudelaire",
+      "Arthur Rimbaud",
+      "Paul Verlaine"
+    ],
+    "answer": "Charles Baudelaire"
+  },
+  {
+    "id": 91,
+    "question": "Quel était le nom de la célèbre loi française qui a établi l'école gratuite, laïque et obligatoire en 1882 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi Ferry",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi Ferry"
+  },
+  {
+    "id": 92,
+    "question": "Qui était le célèbre peintre français connu pour ses portraits et ses scènes mythologiques ?",
+    "choices": [
+      "Nicolas Poussin",
+      "Claude Lorrain",
+      "Hyacinthe Rigaud",
+      "Antoine Watteau"
+    ],
+    "answer": "Hyacinthe Rigaud"
+  },
+  {
+    "id": 93,
+    "question": "Quel était le nom de la célèbre place forte construite par Vauban pour protéger la frontière nord de la France ?",
+    "choices": [
+      "La citadelle de Lille",
+      "La citadelle de Besançon",
+      "La citadelle de Belfort",
+      "La citadelle de Verdun"
+    ],
+    "answer": "La citadelle de Lille"
+  },
+  {
+    "id": 94,
+    "question": "Qui était le célèbre homme politique français connu pour son rôle dans la création de la Sécurité sociale ?",
+    "choices": [
+      "Georges Clemenceau",
+      "Jean Jaurès",
+      "Léon Blum",
+      "Pierre Laroque"
+    ],
+    "answer": "Pierre Laroque"
+  },
+  {
+    "id": 95,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Autrichiens en 1859 ?",
+    "choices": [
+      "La bataille de Solférino",
+      "La bataille de Magenta",
+      "La bataille de Marignan",
+      "La bataille de Malakoff"
+    ],
+    "answer": "La bataille de Solférino"
+  },
+  {
+    "id": 96,
+    "question": "Qui était le célèbre compositeur français connu pour son opéra 'Faust' ?",
+    "choices": [
+      "Georges Bizet",
+      "Charles Gounod",
+      "Jules Massenet",
+      "Camille Saint-Saëns"
+    ],
+    "answer": "Charles Gounod"
+  },
+  {
+    "id": 97,
+    "question": "Quel était le nom de la célèbre loi française qui a établi la liberté de la presse en 1881 ?",
+    "choices": [
+      "La loi Veil",
+      "La loi Badinter",
+      "La loi sur la liberté de la presse",
+      "La loi de séparation des Églises et de l'État"
+    ],
+    "answer": "La loi sur la liberté de la presse"
+  },
+  {
+    "id": 98,
+    "question": "Qui était le célèbre peintre impressionniste français connu pour ses scènes de la vie parisienne ?",
+    "choices": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Henri de Toulouse-Lautrec"
+    ],
+    "answer": "Pierre-Auguste Renoir"
+  },
+  {
+    "id": 99,
+    "question": "Quel était le nom de la célèbre bataille où les Français ont vaincu les Prussiens en 1870 ?",
+    "choices": [
+      "La bataille de Sedan",
+      "La bataille de Metz",
+      "La bataille de Reichshoffen",
+      "La bataille de Saint-Privat"
+    ],
+    "answer": "La bataille de Saint-Privat"
+  },
+  {
+    "id": 100,
+    "question": "Qui était le célèbre écrivain français auteur de 'Le Comte de Monte-Cristo' ?",
+    "choices": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "answer": "Alexandre Dumas"
+  }
+]

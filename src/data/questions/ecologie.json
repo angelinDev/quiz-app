@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 1,
+    "question": "Quel gaz est principalement responsable de l'effet de serre ?",
+    "choices": ["Oxygène", "Dioxyde de carbone", "Azote", "Hydrogène"],
+    "answer": "Dioxyde de carbone"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la principale cause de la déforestation en Amazonie ?",
+    "choices": ["Urbanisation", "Élevage", "Industrie", "Tourisme"],
+    "answer": "Élevage"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le principal gaz à effet de serre émis par les activités humaines ?",
+    "choices": [
+      "Méthane",
+      "Dioxyde de carbone",
+      "Protoxyde d'azote",
+      "Vapeur d'eau"
+    ],
+    "answer": "Dioxyde de carbone"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est la principale source d'énergie renouvelable ?",
+    "choices": [
+      "Chauffage au bois",
+      "Énergie solaire",
+      "Énergie nucléaire",
+      "Énergie géothermique"
+    ],
+    "answer": "Énergie solaire"
+  },
+  {
+    "id": 5,
+    "question": "Quel est le principal facteur contribuant à la perte de biodiversité ?",
+    "choices": [
+      "Changement climatique",
+      "Déforestation",
+      "Pollution de l'eau",
+      "Surpêche"
+    ],
+    "answer": "Déforestation"
+  },
+  {
+    "id": 6,
+    "question": "Quelle est la principale cause de la pollution des océans ?",
+    "choices": [
+      "Déchets plastiques",
+      "Marées noires",
+      "Rejets industriels",
+      "Eaux usées"
+    ],
+    "answer": "Déchets plastiques"
+  },
+  {
+    "id": 7,
+    "question": "Quel est le principal gaz responsable de la destruction de la couche d'ozone ?",
+    "choices": [
+      "Dioxyde de carbone",
+      "Chlorofluorocarbures (CFC)",
+      "Méthane",
+      "Protoxyde d'azote"
+    ],
+    "answer": "Chlorofluorocarbures (CFC)"
+  },
+  {
+    "id": 8,
+    "question": "Quelle est la principale cause de l'acidification des océans ?",
+    "choices": [
+      "Augmentation du CO2 atmosphérique",
+      "Rejets industriels",
+      "Déchets plastiques",
+      "Marées noires"
+    ],
+    "answer": "Augmentation du CO2 atmosphérique"
+  },
+  {
+    "id": 9,
+    "question": "Quel est le principal facteur contribuant à l'eutrophisation des lacs ?",
+    "choices": [
+      "Rejets agricoles riches en nutriments",
+      "Rejets industriels",
+      "Déchets plastiques",
+      "Changement climatique"
+    ],
+    "answer": "Rejets agricoles riches en nutriments"
+  },
+  {
+    "id": 10,
+    "question": "Quelle est la principale cause de la disparition des récifs coralliens ?",
+    "choices": [
+      "Récolte de coraux",
+      "Changement climatique",
+      "Pollution marine",
+      "Surpêche"
+    ],
+    "answer": "Changement climatique"
+  },
+  {
+    "id": 11,
+    "question": "Quel est le principal gaz émis par les ruminants contribuant à l'effet de serre ?",
+    "choices": [
+      "Dioxyde de carbone",
+      "Protoxyde d'azote",
+      "Méthane",
+      "Vapeur d'eau"
+    ],
+    "answer": "Méthane"
+  },
+  {
+    "id": 12,
+    "question": "Quelle est la principale cause de la pollution de l'air en milieu urbain ?",
+    "choices": [
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Émissions des véhicules"
+  },
+  {
+    "id": 13,
+    "question": "Quel est le principal facteur contribuant à la désertification ?",
+    "choices": [
+      "Déforestation",
+      "Changement climatique",
+      "Surpâturage",
+      "Agriculture intensive"
+    ],
+    "answer": "Surpâturage"
+  },
+  {
+    "id": 14,
+    "question": "Quelle est la principale cause de la pollution des sols ?",
+    "choices": [
+      "Utilisation de pesticides",
+      "Déchets plastiques",
+      "Rejets industriels",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de pesticides"
+  },
+  {
+    "id": 15,
+    "question": "Quel est le principal facteur contribuant à la fonte des glaciers ?",
+    "choices": [
+      "Déforestation",
+      "Changement climatique",
+      "Pollution de l'air",
+      "Pollution de l'eau"
+    ],
+    "answer": "Changement climatique"
+  },
+  {
+    "id": 16,
+    "question": "Quelle est la principale cause de la pollution sonore ?",
+    "choices": [
+      "Trafic routier",
+      "Activités industrielles",
+      "Chantiers de construction",
+      "Événements sportifs"
+    ],
+    "answer": "Trafic routier"
+  },
+  {
+    "id": 17,
+    "question": "Quel est le principal facteur contribuant à la pollution lumineuse ?",
+    "choices": [
+      "Éclairage public",
+      "Éclairage domestique",
+      "Éclairage des véhicules",
+      "Éclairage des commerces"
+    ],
+    "answer": "Éclairage public"
+  },
+  {
+    "id": 18,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines ?",
+    "choices": [
+      "Infiltration de pesticides",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Infiltration de pesticides"
+  },
+  {
+    "id": 19,
+    "question": "Quel est le principal facteur contribuant à la pollution thermique des cours d'eau ?",
+    "choices": [
+      "Rejets d'eaux chaudes industrielles",
+      "Changement climatique",
+      "Déforestation",
+      "Pollution de l'air"
+    ],
+    "answer": "Rejets d'eaux chaudes industrielles"
+  },
+  {
+    "id": 20,
+    "question": "Quelle est la principale cause de la pollution radioactive ?",
+    "choices": [
+      "Accidents nucléaires",
+      "Déchets radioactifs",
+      "Tests d'armes nucléaires",
+      "Utilisation médicale de radioisotopes"
+    ],
+    "answer": "Déchets radioactifs"
+  },
+  {
+    "id": 21,
+    "question": "Quel est le principal facteur contribuant à la pollution microbienne de l'eau ?",
+    "choices": [
+      "Rejets d'eaux usées non traitées",
+      "Déchets agricoles",
+      "Rejets industriels",
+      "Déforestation"
+    ],
+    "answer": "Rejets d'eaux usées non traitées"
+  },
+  {
+    "id": 22,
+    "question": "Quelle est la principale cause de la pollution chimique des sols ?",
+    "choices": [
+      "Utilisation de pesticides",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de pesticides"
+  },
+  {
+    "id": 23,
+    "question": "Quel est le principal facteur contribuant à la pollution génétique ?",
+    "choices": [
+      "Dissémination d'OGM",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Dissémination d'OGM"
+  },
+  {
+    "id": 24,
+    "question": "Quelle est la principale cause de la pollution électromagnétique ?",
+    "choices": [
+      "Utilisation d'appareils électroniques",
+      "Lignes à haute tension",
+      "Antennes de télécommunication",
+      "Radars"
+    ],
+    "answer": "Lignes à haute tension"
+  },
+  {
+    "id": 25,
+    "question": "Quel est le principal facteur contribuant à la pollution visuelle ?",
+    "choices": [
+      "Panneaux publicitaires",
+      "Déchets sauvages",
+      "Bâtiments abandonnés",
+      "Véhicules abandonnés"
+    ],
+    "answer": "Panneaux publicitaires"
+  },
+  {
+    "id": 26,
+    "question": "Quelle est la principale cause de la pollution olfactive ?",
+    "choices": [
+      "Émissions industrielles",
+      "Déchets organiques",
+      "Trafic routier",
+      "Incendies de forêt"
+    ],
+    "answer": "Émissions industrielles"
+  },
+  {
+    "id": 27,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les métaux lourds ?",
+    "choices": [
+      "Rejets industriels",
+      "Utilisation de pesticides",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 28,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les nutriments ?",
+    "choices": [
+      "Rejets agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets agricoles"
+  },
+  {
+    "id": 29,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les nitrates ?",
+    "choices": [
+      "Utilisation d'engrais agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'engrais agricoles"
+  },
+  {
+    "id": 30,
+    "question": "Quelle est la principale cause de la pollution de l'air par les particules fines ?",
+    "choices": [
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Émissions des véhicules"
+  },
+  {
+    "id": 31,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par l'ozone troposphérique ?",
+    "choices": [
+      "Réactions photochimiques impliquant des polluants",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Réactions photochimiques impliquant des polluants"
+  },
+  {
+    "id": 32,
+    "question": "Quelle est la principale cause de la pollution de l'air par le dioxyde de soufre ?",
+    "choices": [
+      "Combustion de combustibles fossiles",
+      "Éruptions volcaniques",
+      "Activités industrielles",
+      "Incendies de forêt"
+    ],
+    "answer": "Combustion de combustibles fossiles"
+  },
+  {
+    "id": 33,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les oxydes d'azote ?",
+    "choices": [
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Émissions des véhicules"
+  },
+  {
+    "id": 34,
+    "question": "Quelle est la principale cause de la pollution de l'air par le monoxyde de carbone ?",
+    "choices": [
+      "Combustion incomplète de combustibles fossiles",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Combustion incomplète de combustibles fossiles"
+  },
+  {
+    "id": 35,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les composés organiques volatils ?",
+    "choices": [
+      "Utilisation de solvants",
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chauffage domestique"
+    ],
+    "answer": "Utilisation de solvants"
+  },
+  {
+    "id": 36,
+    "question": "Quelle est la principale cause de la pollution de l'air par l'ammoniac ?",
+    "choices": [
+      "Agriculture intensive",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Agriculture intensive"
+  },
+  {
+    "id": 37,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les particules en suspension ?",
+    "choices": [
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chantiers de construction",
+      "Incendies de forêt"
+    ],
+    "answer": "Activités industrielles"
+  },
+  {
+    "id": 38,
+    "question": "Quelle est la principale cause de la pollution de l'air par les hydrocarbures aromatiques polycycliques ?",
+    "choices": [
+      "Combustion de combustibles fossiles",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Combustion de combustibles fossiles"
+  },
+  {
+    "id": 39,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les métaux lourds ?",
+    "choices": [
+      "Rejets industriels",
+      "Émissions des véhicules",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 40,
+    "question": "Quelle est la principale cause de la pollution de l'air par les pesticides ?",
+    "choices": [
+      "Utilisation agricole de pesticides",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Utilisation agricole de pesticides"
+  },
+  {
+    "id": 41,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les dioxines ?",
+    "choices": [
+      "Incendies de déchets",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Incendies de déchets"
+  },
+  {
+    "id": 42,
+    "question": "Quelle est la principale cause de la pollution de l'air par les furanes ?",
+    "choices": [
+      "Incendies de déchets",
+      "Émissions industrielles",
+      "Chauffage domestique",
+      "Incendies de forêt"
+    ],
+    "answer": "Incendies de déchets"
+  },
+  {
+    "id": 43,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les benzènes ?",
+    "choices": [
+      "Émissions des véhicules",
+      "Utilisation de solvants",
+      "Activités industrielles",
+      "Chauffage domestique"
+    ],
+    "answer": "Émissions des véhicules"
+  },
+  {
+    "id": 44,
+    "question": "Quelle est la principale cause de la pollution de l'air par les formaldéhydes ?",
+    "choices": [
+      "Utilisation de produits de construction",
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Chauffage domestique"
+    ],
+    "answer": "Utilisation de produits de construction"
+  },
+  {
+    "id": 45,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les particules de suie ?",
+    "choices": [
+      "Combustion de combustibles fossiles",
+      "Émissions des véhicules",
+      "Activités industrielles",
+      "Incendies de forêt"
+    ],
+    "answer": "Combustion de combustibles fossiles"
+  },
+  {
+    "id": 46,
+    "question": "Quelle est la principale cause de la pollution de l'air par les particules de poussière ?",
+    "choices": [
+      "Activités agricoles",
+      "Chantiers de construction",
+      "Émissions des véhicules",
+      "Activités industrielles"
+    ],
+    "answer": "Activités agricoles"
+  },
+  {
+    "id": 47,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les particules de pollen ?",
+    "choices": [
+      "Végétation",
+      "Activités agricoles",
+      "Chantiers de construction",
+      "Émissions des véhicules"
+    ],
+    "answer": "Végétation"
+  },
+  {
+    "id": 48,
+    "question": "Quelle est la principale cause de la pollution de l'air par les particules de spores fongiques ?",
+    "choices": [
+      "Décomposition de matière organique",
+      "Activités agricoles",
+      "Chantiers de construction",
+      "Émissions des véhicules"
+    ],
+    "answer": "Décomposition de matière organique"
+  },
+  {
+    "id": 49,
+    "question": "Quel est le principal facteur contribuant à la pollution de l'air par les particules de bactéries ?",
+    "choices": [
+      "Décomposition de matière organique",
+      "Activités agricoles",
+      "Chantiers de construction",
+      "Émissions des véhicules"
+    ],
+    "answer": "Décomposition de matière organique"
+  },
+  {
+    "id": 50,
+    "question": "Quelle est la principale cause de la pollution de l'air par les particules de virus ?",
+    "choices": [
+      "Décomposition de matière organique",
+      "Activités agricoles",
+      "Chantiers de construction",
+      "Émissions des véhicules"
+    ],
+    "answer": "Décomposition de matière organique"
+  },
+  {
+    "id": 51,
+    "question": "Quelle est la principale cause de la pollution des sols par les plastiques ?",
+    "choices": [
+      "Déchets plastiques non recyclés",
+      "Utilisation de pesticides",
+      "Rejets industriels",
+      "Déforestation"
+    ],
+    "answer": "Déchets plastiques non recyclés"
+  },
+  {
+    "id": 52,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les métaux lourds ?",
+    "choices": [
+      "Rejets industriels",
+      "Utilisation de pesticides",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 53,
+    "question": "Quelle est la principale cause de la pollution des sols par les hydrocarbures ?",
+    "choices": [
+      "Marées noires",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Marées noires"
+  },
+  {
+    "id": 54,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets radioactifs ?",
+    "choices": [
+      "Accidents nucléaires",
+      "Déchets radioactifs non traités",
+      "Rejets industriels",
+      "Déforestation"
+    ],
+    "answer": "Déchets radioactifs non traités"
+  },
+  {
+    "id": 55,
+    "question": "Quelle est la principale cause de la pollution des sols par les nitrates ?",
+    "choices": [
+      "Utilisation d'engrais agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'engrais agricoles"
+  },
+  {
+    "id": 56,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les phosphates ?",
+    "choices": [
+      "Utilisation d'engrais agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'engrais agricoles"
+  },
+  {
+    "id": 57,
+    "question": "Quelle est la principale cause de la pollution des sols par les pesticides ?",
+    "choices": [
+      "Utilisation de pesticides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de pesticides en agriculture"
+  },
+  {
+    "id": 58,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les herbicides ?",
+    "choices": [
+      "Utilisation d'herbicides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'herbicides en agriculture"
+  },
+  {
+    "id": 59,
+    "question": "Quelle est la principale cause de la pollution des sols par les fongicides ?",
+    "choices": [
+      "Utilisation de fongicides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de fongicides en agriculture"
+  },
+  {
+    "id": 60,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les insecticides ?",
+    "choices": [
+      "Utilisation d'insecticides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'insecticides en agriculture"
+  },
+  {
+    "id": 61,
+    "question": "Quelle est la principale cause de la pollution des sols par les rodenticides ?",
+    "choices": [
+      "Utilisation de rodenticides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de rodenticides en agriculture"
+  },
+  {
+    "id": 62,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les nématocides ?",
+    "choices": [
+      "Utilisation de nématocides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de nématocides en agriculture"
+  },
+  {
+    "id": 63,
+    "question": "Quelle est la principale cause de la pollution des sols par les molluscicides ?",
+    "choices": [
+      "Utilisation de molluscicides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de molluscicides en agriculture"
+  },
+  {
+    "id": 64,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les acaricides ?",
+    "choices": [
+      "Utilisation d'acaricides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'acaricides en agriculture"
+  },
+  {
+    "id": 65,
+    "question": "Quelle est la principale cause de la pollution des sols par les produits de traitement des semences ?",
+    "choices": [
+      "Utilisation de produits de traitement des semences en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de produits de traitement des semences en agriculture"
+  },
+  {
+    "id": 66,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les engrais chimiques ?",
+    "choices": [
+      "Utilisation d'engrais chimiques en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'engrais chimiques en agriculture"
+  },
+  {
+    "id": 67,
+    "question": "Quelle est la principale cause de la pollution des sols par les boues d'épuration ?",
+    "choices": [
+      "Épandage de boues d'épuration",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Épandage de boues d'épuration"
+  },
+  {
+    "id": 68,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de construction ?",
+    "choices": [
+      "Déchets de construction non recyclés",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Déchets de construction non recyclés"
+  },
+  {
+    "id": 69,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets électroniques ?",
+    "choices": [
+      "Déchets électroniques non recyclés",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Déchets électroniques non recyclés"
+  },
+  {
+    "id": 70,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets médicaux ?",
+    "choices": [
+      "Déchets médicaux non traités",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Déchets médicaux non traités"
+  },
+  {
+    "id": 71,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets de l'industrie textile ?",
+    "choices": [
+      "Rejets de l'industrie textile",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie textile"
+  },
+  {
+    "id": 72,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de l'industrie du cuir ?",
+    "choices": [
+      "Rejets de l'industrie du cuir",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie du cuir"
+  },
+  {
+    "id": 73,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets de l'industrie papetière ?",
+    "choices": [
+      "Rejets de l'industrie papetière",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie papetière"
+  },
+  {
+    "id": 74,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de l'industrie agroalimentaire ?",
+    "choices": [
+      "Rejets de l'industrie agroalimentaire",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie agroalimentaire"
+  },
+  {
+    "id": 75,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets de l'industrie pharmaceutique ?",
+    "choices": [
+      "Rejets de l'industrie pharmaceutique",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie pharmaceutique"
+  },
+  {
+    "id": 76,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de l'industrie cosmétique ?",
+    "choices": [
+      "Rejets de l'industrie cosmétique",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie cosmétique"
+  },
+  {
+    "id": 77,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets de l'industrie automobile ?",
+    "choices": [
+      "Rejets de l'industrie automobile",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie automobile"
+  },
+  {
+    "id": 78,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de l'industrie aéronautique ?",
+    "choices": [
+      "Rejets de l'industrie aéronautique",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de l'industrie aéronautique"
+  },
+  {
+    "id": 79,
+    "question": "Quelle est la principale cause de la pollution des sols par les déchets de l'industrie spatiale ?",
+    "choices": [
+      "Débris spatiaux",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Débris spatiaux"
+  },
+  {
+    "id": 80,
+    "question": "Quel est le principal facteur contribuant à la pollution des sols par les déchets de l'industrie électronique ?",
+    "choices": [
+      "Déchets électroniques non recyclés",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Déchets électroniques non recyclés"
+  },
+  {
+    "id": 81,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les nutriments ?",
+    "choices": [
+      "Rejets agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets agricoles"
+  },
+  {
+    "id": 82,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux de surface par les pesticides ?",
+    "choices": [
+      "Utilisation de pesticides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de pesticides en agriculture"
+  },
+  {
+    "id": 83,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les métaux lourds ?",
+    "choices": [
+      "Rejets industriels",
+      "Utilisation de pesticides",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 84,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux de surface par les hydrocarbures ?",
+    "choices": [
+      "Marées noires",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Marées noires"
+  },
+  {
+    "id": 85,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les déchets plastiques ?",
+    "choices": [
+      "Déchets plastiques non recyclés",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Déchets plastiques non recyclés"
+  },
+  {
+    "id": 86,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux de surface par les pathogènes ?",
+    "choices": [
+      "Rejets d'eaux usées non traitées",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets d'eaux usées non traitées"
+  },
+  {
+    "id": 87,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les produits pharmaceutiques ?",
+    "choices": [
+      "Rejets de produits pharmaceutiques",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de produits pharmaceutiques"
+  },
+  {
+    "id": 88,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux de surface par les produits chimiques ménagers ?",
+    "choices": [
+      "Rejets de produits chimiques ménagers",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de produits chimiques ménagers"
+  },
+  {
+    "id": 89,
+    "question": "Quelle est la principale cause de la pollution des eaux de surface par les produits de soin personnel ?",
+    "choices": [
+      "Rejets de produits de soin personnel",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de produits de soin personnel"
+  },
+  {
+    "id": 90,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux de surface par les produits de nettoyage ?",
+    "choices": [
+      "Rejets de produits de nettoyage",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de produits de nettoyage"
+  },
+  {
+    "id": 91,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines par les nitrates ?",
+    "choices": [
+      "Utilisation d'engrais agricoles",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation d'engrais agricoles"
+  },
+  {
+    "id": 92,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les pesticides ?",
+    "choices": [
+      "Utilisation de pesticides en agriculture",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Utilisation de pesticides en agriculture"
+  },
+  {
+    "id": 93,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines par les métaux lourds ?",
+    "choices": [
+      "Rejets industriels",
+      "Utilisation de pesticides",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 94,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les hydrocarbures ?",
+    "choices": [
+      "Fuites de réservoirs de stockage souterrain",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Fuites de réservoirs de stockage souterrain"
+  },
+  {
+    "id": 95,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines par les solvants ?",
+    "choices": [
+      "Rejets industriels",
+      "Utilisation de solvants",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets industriels"
+  },
+  {
+    "id": 96,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les pathogènes ?",
+    "choices": [
+      "Infiltration d'eaux usées non traitées",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Infiltration d'eaux usées non traitées"
+  },
+  {
+    "id": 97,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines par les produits pharmaceutiques ?",
+    "choices": [
+      "Rejets de produits pharmaceutiques",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Rejets de produits pharmaceutiques"
+  },
+  {
+    "id": 98,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les produits chimiques ménagers ?",
+    "choices": [
+      "Infiltration de produits chimiques ménagers",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Infiltration de produits chimiques ménagers"
+  },
+  {
+    "id": 99,
+    "question": "Quelle est la principale cause de la pollution des eaux souterraines par les produits de soin personnel ?",
+    "choices": [
+      "Infiltration de produits de soin personnel",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Infiltration de produits de soin personnel"
+  },
+  {
+    "id": 100,
+    "question": "Quel est le principal facteur contribuant à la pollution des eaux souterraines par les produits de nettoyage ?",
+    "choices": [
+      "Infiltration de produits de nettoyage",
+      "Rejets industriels",
+      "Déchets ménagers",
+      "Déforestation"
+    ],
+    "answer": "Infiltration de produits de nettoyage"
+  }
+]
