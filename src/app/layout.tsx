@@ -32,15 +32,15 @@ export const metadata: Metadata = {
     "quiz jaune",
     "Quiz de la Honte"
   ],
-  authors: [{ name: "QuizApp Team", url: "https://github.com/" }],
+  authors: [{ name: "José-Marie Laourou", url: "https://github.com/angelinDev" }],
   openGraph: {
     title: "Quiz de la Honte | Testez vos connaissances et affrontez votre ignorance !",
     description: "Quiz de culture générale moderne, fun et sans pitié. Testez vos connaissances sur l'histoire, la géopolitique, l'écologie, l'astronomie, les capitales et plus encore.",
-    url: "https://quizApp.jose-marie.fr/",
+    url: "https://quizapp.jose-marie.fr/",
     siteName: "Quiz de la Honte",
     images: [
       {
-        url: "/file.svg",
+        url: "/image.png",
         width: 1200,
         height: 630,
         alt: "Quiz de la Honte - Testez vos connaissances !"
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     description: "Quiz de culture générale moderne, fun et sans pitié. Testez vos connaissances sur l'histoire, la géopolitique, l'écologie, l'astronomie, les capitales et plus encore.",
     images: ["/file.svg"]
   },
-  metadataBase: new URL("https://quizApp.jose-marie.fr/")
+  metadataBase: new URL("https://quizapp.jose-marie.fr/")
 };
 
 export default function RootLayout({
