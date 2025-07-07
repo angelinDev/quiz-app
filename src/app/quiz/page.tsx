@@ -1,6 +1,5 @@
 "use client";
-
-import React, { useState, useEffect } from 'react';
+import React, { Suspense, useState, useEffect } from 'react';
 import MainTitle from '../components/ui/MainTitle';
 import QuizDescription from '../quiz/components/ui/QuizDescription';
 import Horloge from './components/ui/Horloge';
@@ -10,7 +9,7 @@ import Footer from '../components/layout/Footer';
 import { useSearchParams } from "next/navigation";
 import { Question } from '../../types/question';
 
-function Page() {
+function PageContent() {
   const [quizStarted, setQuizStarted] = useState(false);
 
   const startQuiz = () => {
@@ -90,4 +89,11 @@ function Page() {
   );
 }
 
-export default Page;
+
+export default function Page() {
+  return (
+    <Suspense>
+      <PageContent />
+    </Suspense>
+  );
+}

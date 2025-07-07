@@ -1,5 +1,4 @@
-
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import path from 'path';
 import { promises as fs } from 'fs';
 
@@ -12,10 +11,12 @@ async function readQuestionsCategoriesFile() {
 }
 
 // Route GET dynamique pour /api/quiz/[id]
-export async function GET(request: NextRequest, context: { params: { id: string } }) {
+export async function GET(_request: unknown, context: unknown) {
+  // Typage local pour éviter l'erreur TS explicite
+  const { params } = context as { params: { id: string } };
   try {
     const categories: Array<{ id: number; category: string; description: string; duration: number; questions: string }> = await readQuestionsCategoriesFile();
-    const id = parseInt(context.params.id, 10);
+    const id = parseInt(params.id, 10);
     const category = categories.find((cat) => cat.id === id);
     if (!category) {
       return NextResponse.json({ error: 'Catégorie non trouvée' }, { status: 404 });
