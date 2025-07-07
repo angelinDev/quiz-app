@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import MainTitle from '../components/ui/MainTitle';
 import QuizDescription from '../quiz/components/ui/QuizDescription';
 import Horloge from './components/ui/Horloge';
@@ -8,6 +8,8 @@ import Chronometre from './components/ui/Chronometre';
 import BackButton from './components/ui/BackButton';
 import QuestionLayout from './components/layout/QuestionLayout';
 import Footer from '../components/layout/Footer';
+import { useSearchParams } from "next/navigation";
+import { Question } from '../../types/question';
 
 function page() {
   const [quizStarted, setQuizStarted] = useState(false);
@@ -15,6 +17,30 @@ function page() {
   const startQuiz = () => {
     setQuizStarted(true);
   };
+
+  const searchParams = useSearchParams();
+  const category_id = searchParams.get('id');
+
+  const [questions, setQuestions] = useState<Question[]>([]);
+
+  useEffect(() => {
+    const getQuestions = async () => {
+      try {
+        const response = await fetch(`/api/quiz/${category_id}`);
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        const data = await response.json();
+        // console.log('Fetched questions categories:', data);
+        setQuestions(data.questions);
+
+      } catch (error) {
+        console.error('Error fetching questions categories:', error);
+      }
+    }
+
+    getQuestions();
+  }, [])
 
   return (
     <div className="flex flex-col min-h-screen w-full items-center px-2 md:px-0">
@@ -37,7 +63,7 @@ function page() {
             <Horloge />
             <Chronometre />
           </div>
-          <QuestionLayout />
+          <QuestionLayout questions={questions} />
           <Footer />
         </div>
       )}
