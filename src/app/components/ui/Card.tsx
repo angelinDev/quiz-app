@@ -4,7 +4,7 @@ import React from "react";
 function Card({...props}) {
 
   function redirection_link(id: number): string {
-    return `/quiz?${id}`;
+    return `/quiz?id=${id}`;
   }
 
   return (
@@ -45,7 +45,7 @@ function Card({...props}) {
       <p className="text-[#fffbe9d0] mb-7 text-base leading-relaxed font-medium">
         {props.description}
       </p>
-      <Link href={redirection_link(props.id)} className="relative flex items-center justify-center w-full py-2.5 rounded-xl bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500 text-black font-bold shadow-xl hover:from-yellow-400 hover:to-yellow-600 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 tracking-wide text-lg group-hover:scale-105">
+      <Link href={redirection_link(props.id)} className="relative flex items-center justify-center w-full py-2.5 rounded-xl bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500 text-black font-bold shadow-xl hover:from-yellow-400 hover:to-yellow-600 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 tracking-wide text-lg group-hover:scale-105 cursor-pointer">
         <span className="inline-flex items-center gap-2">
           <svg
             width="20"

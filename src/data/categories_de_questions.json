@@ -4,41 +4,41 @@
     "category": "Histoire de France",
     "description": "Testez vos connaissances sur les événements, personnages et dates clés de l'histoire de la France.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/histoire_de_france.json"
   },
   {
     "id": 2,
     "category": "Géopolitique",
     "description": "Explorez les enjeux politiques, économiques et sociaux qui façonnent le monde contemporain.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/geopolitique_mondiale.json"
   },
   {
     "id": 3,
     "category": "Écologie",
     "description": "Évaluez vos connaissances sur l'environnement, la biodiversité et les défis écologiques actuels.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/ecologie.json"
   },
   {
     "id": 4,
     "category": "Astronomie",
     "description": "Découvrez les mystères de l'univers, des planètes aux étoiles en passant par les galaxies.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/astronomie.json"
   },
   {
     "id": 5,
     "category": "Histoire du monde",
     "description": "Parcourez les grandes civilisations, guerres et découvertes qui ont marqué l'histoire mondiale.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/histoire_du_monde.json"
   },
   {
     "id": 6,
     "category": "Pays et capitales",
     "description": "Testez vos connaissances sur les pays du monde et leurs capitales respectives.",
     "duration": 120,
-    "questions": ""
+    "questions": "/questions/pays_et_capitales.json"
   }
 ]

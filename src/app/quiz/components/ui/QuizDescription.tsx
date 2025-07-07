@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-function DescriptionText() {
+function QuizDescription() {
   return (
     <div className="relative flex items-center gap-3 px-6 py-4 rounded-2xl bg-gradient-to-r from-yellow-400/10 via-yellow-200/5 to-transparent border border-yellow-400/20 shadow-lg backdrop-blur-md max-w-xl w-full animate-fade-in-up">
       <svg
@@ -19,14 +19,14 @@ function DescriptionText() {
         />
       </svg>
       <span className="text-lg md:text-xl font-semibold text-yellow-100">
-        Bienvenue sur QuizApp, votre plateforme pour tester et enrichir vos connaissances !
+        Ce quiz évalue vos connaissances sur le sujet sélectionné.&nbsp;
         <span className="text-yellow-300 font-bold">
-          Découvrez des quiz variés
+          Répondez aux questions
         </span>
-        &nbsp;dans de nombreux domaines, défiez-vous et apprenez en vous amusant. Bonne chance !
+        &nbsp;et découvrez votre score final. Bonne chance !
       </span>
     </div>
   );
 }
 
-export default DescriptionText;
+export default QuizDescription;
