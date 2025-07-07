@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: "Quiz de la Honte",
     images: [
       {
-        url: "/image.png",
+        url: "https://quizapp.jose-marie.fr/image.png",
         width: 1200,
         height: 630,
         alt: "Quiz de la Honte - Testez vos connaissances !"
