@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Quiz de la Honte | Testez vos connaissances et affrontez votre ignorance !",
     description: "Quiz de culture générale moderne, fun et sans pitié. Testez vos connaissances sur l'histoire, la géopolitique, l'écologie, l'astronomie, les capitales et plus encore.",
-    images: ["/file.svg"]
+    images: ["https://quizapp.jose-marie.fr/image.png"]
   },
   metadataBase: new URL("https://quizapp.jose-marie.fr/")
 };
