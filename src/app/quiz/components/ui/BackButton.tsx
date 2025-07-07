@@ -26,7 +26,7 @@ function BackButton() {
           </svg>
         </span>
         <span className="text-base underline underline-offset-4 decoration-2 decoration-yellow-400 group-hover:decoration-yellow-600">
-          Retour à l'accueil
+          Retour à l&apos;accueil
         </span>
       </Link>
     </div>

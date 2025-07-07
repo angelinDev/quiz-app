@@ -14,15 +14,13 @@ async function readQuestionsCategoriesFile() {
 // Route GET dynamique pour /api/quiz/[id]
 export async function GET(request: NextRequest, { params }: { params: { id: string } }) {
   try {
-    const categories = await readQuestionsCategoriesFile();
+    const categories: Array<{ id: number; category: string; description: string; duration: number; questions: string }> = await readQuestionsCategoriesFile();
     const id = parseInt(params.id, 10);
-    const category = categories.find((cat: any) => cat.id === id);
+    const category = categories.find((cat) => cat.id === id);
     if (!category) {
       return NextResponse.json({ error: 'Catégorie non trouvée' }, { status: 404 });
     }
-    
-    let questionsPath = category.questions.replace(/^\/?questions\//, '');
-
+    const questionsPath = category.questions.replace(/^\/?questions\//, '');
     const filePath = path.join(process.cwd(), 'src', 'data', 'questions', questionsPath);
     const fileContent = await fs.readFile(filePath, 'utf-8');
     const questions = JSON.parse(fileContent);
@@ -32,8 +30,8 @@ export async function GET(request: NextRequest, { params }: { params: { id: stri
       duration: category.duration,
       questions,
     });
-  } catch (error: any) {
-    return NextResponse.json({ error: error.message || 'Erreur serveur' }, { status: 500 });
+  } catch (error) {
+    return NextResponse.json({ error: (error as Error).message || 'Erreur serveur' }, { status: 500 });
   }
 }
 

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { NextRequest, NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 
 export async function GET() {
   const filePath = path.join(process.cwd(), 'src', 'data', 'categories_de_questions.json');

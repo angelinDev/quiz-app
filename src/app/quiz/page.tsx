@@ -4,14 +4,13 @@ import React, { useState, useEffect } from 'react';
 import MainTitle from '../components/ui/MainTitle';
 import QuizDescription from '../quiz/components/ui/QuizDescription';
 import Horloge from './components/ui/Horloge';
-import Chronometre from './components/ui/Chronometre';
 import BackButton from './components/ui/BackButton';
 import QuestionLayout from './components/layout/QuestionLayout';
 import Footer from '../components/layout/Footer';
 import { useSearchParams } from "next/navigation";
 import { Question } from '../../types/question';
 
-function page() {
+function Page() {
   const [quizStarted, setQuizStarted] = useState(false);
 
   const startQuiz = () => {
@@ -41,7 +40,7 @@ function page() {
       }
     }
     getQuestions();
-  }, [])
+  }, [category_id])
 
   return (
     <div className="flex flex-col min-h-screen w-full px-2 md:px-0">
@@ -91,4 +90,4 @@ function page() {
   );
 }
 
-export default page;
+export default Page;

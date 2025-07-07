@@ -32,7 +32,9 @@ function Footer() {
         </div>
         <div className="flex items-center gap-6">
           <a
-            href="#"
+            href="https://github.com/angelinDev/quiz-app"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-yellow-300 hover:text-yellow-400 transition-colors font-semibold text-base underline underline-offset-4"
           >
             GitHub
