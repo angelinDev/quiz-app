@@ -123,8 +123,8 @@ body {
       transform: translateX(0);
     }
     100% {
-      opacity: 0;
-      transform: translateX(-60px) scale(0.98);
+      opacity: 1;
+      transform: translateX(-48px);
     }
   }
   @keyframes slide-right {
@@ -133,14 +133,14 @@ body {
       transform: translateX(0);
     }
     100% {
-      opacity: 0;
-      transform: translateX(60px) scale(0.98);
+      opacity: 1;
+      transform: translateX(48px);
     }
   }
   .animate-slide-left {
-    animation: slide-left 0.35s cubic-bezier(0.4,0.2,0.2,1);
+    animation: slide-left 0.28s cubic-bezier(0.4,0.2,0.2,1);
   }
   .animate-slide-right {
-    animation: slide-right 0.35s cubic-bezier(0.4,0.2,0.2,1);
+    animation: slide-right 0.28s cubic-bezier(0.4,0.2,0.2,1);
   }
 }

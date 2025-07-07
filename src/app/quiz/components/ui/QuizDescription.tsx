@@ -1,6 +1,11 @@
 import React from 'react';
 
-function QuizDescription() {
+interface QuizDescriptionProps {
+  category: string;
+  description: string;
+}
+
+const QuizDescription: React.FC<QuizDescriptionProps> = ({ category, description }) => {
   return (
     <div className="relative flex items-center gap-3 px-6 py-4 rounded-2xl bg-gradient-to-r from-yellow-400/10 via-yellow-200/5 to-transparent border border-yellow-400/20 shadow-lg backdrop-blur-md max-w-xl w-full animate-fade-in-up">
       <svg
@@ -19,14 +24,15 @@ function QuizDescription() {
         />
       </svg>
       <span className="text-lg md:text-xl font-semibold text-yellow-100">
-        Ce quiz évalue vos connaissances sur le sujet sélectionné.&nbsp;
-        <span className="text-yellow-300 font-bold">
-          Répondez aux questions
-        </span>
-        &nbsp;et découvrez votre score final. Bonne chance !
+        <span className="text-yellow-300 font-bold">{category}</span>
+        {description && (
+          <>
+            &nbsp;: {description}
+          </>
+        )}
       </span>
     </div>
   );
-}
+};
 
 export default QuizDescription;

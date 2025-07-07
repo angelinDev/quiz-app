@@ -35,23 +35,11 @@ function Footer() {
             href="#"
             className="text-yellow-300 hover:text-yellow-400 transition-colors font-semibold text-base underline underline-offset-4"
           >
-            À propos
-          </a>
-          <a
-            href="#"
-            className="text-yellow-300 hover:text-yellow-400 transition-colors font-semibold text-base underline underline-offset-4"
-          >
-            Contact
-          </a>
-          <a
-            href="#"
-            className="text-yellow-300 hover:text-yellow-400 transition-colors font-semibold text-base underline underline-offset-4"
-          >
             GitHub
           </a>
         </div>
         <span className="text-yellow-100/60 text-sm font-mono mt-2 md:mt-0">
-          © {new Date().getFullYear()} QuizApp. Tous droits réservés.
+          © {new Date().getFullYear()} QuizApp. Tous droits réservés. (conçu par José-Marie L.)
         </span>
       </div>
     </footer>
